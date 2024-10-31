@@ -1,0 +1,942 @@
+{
+    "strategies": [
+        {
+            "strategyId": "1",
+            "questions": [
+                {
+                    "id": "0",
+                    "text": "Google est connu pour ses projets 'moonshot', tels que les voitures autonomes, les initiatives en énergies renouvelables et les ballons Internet. Ces projets ont attiré une grande attention du public et des médias. Pendant ce temps, Google continue d'améliorer son activité principale de publicité, qui est sa principale source de revenus. En promouvant ces projets de haute visibilité, Google détourne l'attention de sa stratégie commerciale principale. Quelle approche stratégique l'action de Google illustre-t-elle le mieux ?",
+                    "options": [
+                        "Diversifier l'engagement des parties prenantes",
+                        "Une stratégie de tromperie pour distraire les concurrents",
+                        "Gestion de portefeuille et diversification des risques",
+                        "Se cacher derrière un écran"
+                    ],
+                    "correctAnswerIndex": 3
+                },
+                {
+                    "id": "1",
+                    "text": "Pendant la Seconde Guerre mondiale, les Alliés ont utilisé une opération de tromperie stratégique appelée Opération Fortitude pour induire les Allemands en erreur sur le lieu du débarquement en Normandie. En créant un groupe d'armées fictif et en utilisant des informations trompeuses, les Alliés ont réussi à détourner les forces allemandes du site réel de débarquement. Quelle approche stratégique cette opération illustre-t-elle le mieux ?",
+                    "options": [
+                        "Créer une fausse façade",
+                        "Une stratégie de tromperie pour distraire l'ennemi",
+                        "Diversifier l'engagement des parties prenantes",
+                        "Gestion de portefeuille et diversification des risques"
+                    ],
+                    "correctAnswerIndex": 1
+                }
+            ]
+        },
+        {
+            "strategyId": "2",
+            "questions": [
+                {
+                    "id": "1",
+                    "text": "Dans les années 1990, sous la direction de Steve Jobs, Apple a mis en œuvre une stratégie axée sur les marchés de niche et les nouveaux produits comme l'iPod, plutôt que de concurrencer directement la domination de Microsoft sur le marché des ordinateurs personnels. Quelle stratégie de gestion de projet cette approche représente-t-elle le mieux ?",
+                    "options": [
+                        "Stratégie de pénétration de marché",
+                        "Stratégie de différenciation des produits",
+                        "Stratégie de marché de niche",
+                        "Stratégie de leadership en coûts"
+                    ],
+                    "correctAnswerIndex": 2
+                },
+                {
+                    "id": "2",
+                    "text": "Pendant la Seconde Guerre mondiale, les Alliés ont mené une opération de tromperie appelée Opération Bodyguard pour induire les Allemands en erreur sur le moment et le lieu du débarquement en Normandie. En créant un groupe d'armées fictif et en détournant l'attention allemande vers d'autres fronts, les Alliés ont facilité le véritable débarquement en Normandie. Quelle approche stratégique cette opération illustre-t-elle le mieux ?",
+                    "options": [
+                        "Confrontation directe",
+                        "Stratégie de tromperie pour distraire l'ennemi",
+                        "Stratégie de leadership en coûts",
+                        "Stratégie de pénétration de marché"
+                    ],
+                    "correctAnswerIndex": 1
+                }
+            ]
+        },
+        {
+            "strategyId": "3",
+            "questions": [
+                {
+                    "id": "1",
+                    "text": "Quelle stratégie consiste à exploiter la force ou les ressources des autres pour atteindre ses propres objectifs ?",
+                    "options": [
+                        "Stratégie d'encerclement",
+                        "Emprunter une épée pour tuer",
+                        "Attaque directe",
+                        "Mécanisme défensif"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "id": "2",
+                    "text": "Pendant la Guerre froide, les États-Unis et leurs alliés ont soutenu divers groupes anti-soviétiques dans différentes régions pour affaiblir l'influence soviétique sans confrontation directe. En fournissant des ressources et un soutien à ces groupes, les États-Unis ont pu affaiblir l'Union soviétique de manière indirecte. Quelle approche stratégique cette action illustre-t-elle le mieux ?",
+                    "options": [
+                        "Engagement militaire direct",
+                        "Soutien à un mandataire pour atteindre des objectifs",
+                        "Stratégie de sanctions économiques",
+                        "Négociations diplomatiques"
+                    ],
+                    "correctAnswerIndex": 1
+                }
+            ]
+        },
+        {
+            "strategyId": "4",
+            "questions": [
+                {
+                    "id": "0",
+                    "text": "En 2005, Google a acquis Android Inc., entrant et dominait finalement le marché des systèmes d'exploitation mobiles en exploitant la technologie et l'expertise d'Android, plutôt que de développer un OS mobile à partir de zéro. Quelle stratégie Google a-t-il utilisée ?",
+                    "options": [
+                        "Emprunter une épée pour tuer",
+                        "Attendre au repos pendant que l'ennemi travaille",
+                        "Diviser pour régner",
+                        "Faire semblant d'attaquer dans une direction"
+                    ],
+                    "correctAnswerIndex": 0
+                },
+                {
+                    "id": "5",
+                    "text": "Pendant la guerre de Sécession, l'armée de l'Union a profité de la préoccupation de l'armée confédérée à défendre son propre territoire en avançant dans des régions moins protégées. Cette tactique a permis à l'Union de capturer des ressources et des territoires précieux pendant que les Confédérés se concentraient sur leurs crises immédiates. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                    "options": [
+                        "Exploiter la distraction d'un adversaire",
+                        "Former des alliances pour un bénéfice mutuel",
+                        "Négocier des accords de paix",
+                        "Engager une guerre économique"
+                    ],
+                    "correctAnswerIndex": 0
+                }
+            ]
+        },
+        {
+            "strategyId": "5",
+            "questions": [
+                {
+                    "id": "1",
+                    "text": "Au début des années 2000, Netflix a adopté une stratégie d'attente pendant que Blockbuster luttait avec son modèle commercial traditionnel en magasin. Alors que Blockbuster faisait face à des coûts élevés et à des revenus en baisse, Netflix a saisi le changement de marché vers le streaming numérique et les services de location de DVD, dominants finalement le marché. Quelle stratégie Netflix a-t-il utilisée ?",
+                    "options": [
+                        "Faire semblant d'attaquer dans une direction",
+                        "Allié lointain, attaque proche",
+                        "Utiliser des personnes de confiance sans suspicion",
+                        "Se cacher derrière un écran"
+                    ],
+                    "correctAnswerIndex": 2
+                },
+                {
+                    "id": "6",
+                    "text": "Pendant la Seconde Guerre mondiale, les Alliés ont mené une série d'opérations de tromperie, y compris en induisant les forces allemandes en erreur sur le lieu du débarquement en Normandie. En créant de fausses transmissions radio et de faux mouvements militaires dans une région, ils ont réussi à exécuter le véritable débarquement en Normandie, prenant les Allemands au dépourvu. Quelle approche stratégique cette opération illustre-t-elle le mieux ?",
+                    "options": [
+                        "Faire semblant d'être actif dans une zone pour frapper dans une autre",
+                        "Attaque frontale directe",
+                        "Établir un blocus",
+                        "Négocier un cessez-le-feu"
+                    ],
+                    "correctAnswerIndex": 0
+                }
+            ]
+        },
+        {
+            "strategyId": "6",
+            "questions": [
+                {
+                    "id": "1",
+                    "text": "Pendant la crise financière de 2008, de nombreux détaillants traditionnels en magasin ont lutté avec des ventes en baisse et une instabilité financière. Amazon, avec sa plateforme de commerce électronique forte et son réseau logistique, a exploité les faiblesses des concurrents pendant cette période. Quelle stratégie Amazon a-t-il utilisée pour augmenter sa part de marché durant cette période ?",
+                    "options": [
+                        "Concurrence directe sur les prix",
+                        "Leadership en coûts",
+                        "Diversification",
+                        "Looting d'une maison en feu"
+                    ],
+                    "correctAnswerIndex": 3
+                }
+            ]
+        },
+        {
+            "strategyId": "7",
+            "questions": [
+                {
+                    "id": "1",
+                    "text": "Pendant la Seconde Guerre punique, Hannibal de Carthage a utilisé une tactique à la bataille de Cannes qui consistait à faire semblant de se retirer pour attirer les Romains dans une position vulnérable, puis lancer une contre-attaque depuis les flancs et l'arrière. Quelle stratégie Hannibal a-t-il utilisée ?",
+                    "options": [
+                        "Faire semblant d'attaquer dans une direction",
+                        "Attirer l'ennemi profondément",
+                        "Allié lointain, attaque proche",
+                        "Emprunter une épée pour tuer"
+                    ],
+                    "correctAnswerIndex": 1
+                },
+                {
+                    "id": "7",
+                    "text": "Avant la guerre hispano-américaine, le gouvernement des États-Unis a sensationnalisé le naufrage de l'USS Maine dans le port de La Havane, malgré peu de preuves concrètes d'implication espagnole. En amplifiant l'incident par les médias, les États-Unis ont stimulé le sentiment public en faveur de la guerre. Quelle approche stratégique cette action représente-t-elle le mieux ?",
+                    "options": [
+                        "Créer une fausse façade",
+                        "Une stratégie de tromperie pour distraire",
+                        "Exploiter une opportunité",
+                        "Se cacher derrière un écran"
+                    ],
+                    "correctAnswerIndex": 1
+                }
+            ]
+        },
+        {
+            "strategyId": "8",
+            "questions": [
+                {
+                    "id": "1",
+                    "text": "Lors du lancement de la Tesla Model S en 2012, Tesla a créé une campagne de marketing très médiatisée pour mettre en avant les caractéristiques avancées de la voiture. Tesla a également avancé secrètement des initiatives stratégiques pour développer un réseau de superchargeurs et une infrastructure afin d'assurer le succès de la voiture lors de sa sortie sur le marché. Quelle stratégie est-ce ?",
+                    "options": [
+                        "Se cacher derrière une façade",
+                        "Faire semblant d'attaquer dans une direction",
+                        "Emprunter une épée pour tuer",
+                        "Assiéger Wei pour sauver Zhao"
+                    ],
+                    "correctAnswerIndex": 0
+                },
+                {
+                    "id": "8",
+                    "text": "Pendant la Révolution américaine, le général George Washington a employé une manœuvre surprise en traversant secrètement la rivière Delaware dans la nuit du 25 décembre 1776. Ce mouvement inattendu a permis à l'Armée continentale de lancer une attaque réussie contre les forces hessiennes à Trenton. Quelle approche stratégique cette manœuvre représente-t-elle le mieux ?",
+                    "options": [
+                        "Exécuter une attaque surprise par une route cachée",
+                        "Former une alliance défensive",
+                        "Lancer une attaque directe sur la force principale de l'ennemi",
+                        "Négocier une trêve"
+                    ],
+                    "correctAnswerIndex": 0
+                }
+            ]
+        },
+        {
+            "strategyId": "9",
+            "questions": [
+                {
+                    "id": "1",
+                    "text": "Dans les années 2010, Samsung et Apple ont remarqué que des concurrents plus petits comme HTC et Sony faisaient face à des difficultés internes, telles que des disputes de gestion et des réallocations de ressources. Au lieu de confronter directement ces concurrents, Samsung et Apple ont choisi d'observer et d'attendre une détérioration supplémentaire des conditions de ces concurrents tout en continuant à étendre leur propre part de marché et leurs avantages technologiques. En exploitant les divisions internes et la dispersion des ressources de leurs concurrents, Samsung et Apple ont consolidé efficacement leurs positions sur le marché. Quelle stratégie est-ce ?",
+                    "options": [
+                        "Regarder le feu de l'autre côté de la rivière",
+                        "Voler des poutres et des piliers, les remplacer par du bois pourri",
+                        "Attendre au repos pendant que l'ennemi travaille",
+                        "Utiliser des personnes de confiance sans suspicion"
+                    ],
+                    "correctAnswerIndex": 2
+                },
+                {
+                    "id": "9",
+                    "text": "Pendant les premiers stades de la Première Guerre mondiale, alors que les Puissances centrales et les Alliés étaient engagés dans des combats intenses sur le front occidental, les États-Unis sont restés neutres et ont observé le conflit à distance. Cette stratégie a permis aux États-Unis d'éviter une implication directe tout en évaluant la situation et en se préparant à une future implication. Quelle approche stratégique cette attitude représente-t-elle le mieux ?",
+                    "options": [
+                        "Observer un conflit à distance tout en se préparant à agir",
+                        "Engagement militaire direct dans le conflit",
+                        "Établir un périmètre défensif",
+                        "Former des alliances stratégiques"
+                    ],
+                    "correctAnswerIndex": 0
+                }
+            ]
+        },
+        {
+                   "strategyId": "10",
+                   "questions": [
+                       {
+                           "id": "1",
+                           "text": "En 1941, le Japon a lancé l'attaque sur Pearl Harbor, causant de graves dommages à la base navale américaine. Avant cela, les États-Unis maintenaient une politique de neutralité, ne participant pas directement à la Seconde Guerre mondiale. Cependant, l'incident de Pearl Harbor a contraint les États-Unis à abandonner leur neutralité et à décider de s'engager pleinement dans la guerre. La principale raison de cette décision stratégique était de maintenir la stabilité mondiale et de se protéger de l'agression des puissances de l'Axe. Les États-Unis ont compris qu'en participant activement à la guerre, ils pouvaient arrêter l'expansion des puissances de l'Axe et garantir la sécurité mondiale. Quelle stratégie est-ce ?",
+                           "options": [
+                               "Faire semblant d'attaquer dans une direction",
+                               "Attirer avec une brique pour obtenir du jade",
+                               "Transformer l'adversité en avantage",
+                               "Attendre au repos pendant que l'ennemi travaille"
+                           ],
+                           "correctAnswerIndex": 1
+                       },
+                       {
+                           "id": "10",
+                           "text": "Pendant la Seconde Guerre mondiale, les Alliés ont mis en œuvre une stratégie pour tromper les puissances de l'Axe en créant de faux objectifs militaires et en sacrifiant des actifs moins importants. Par exemple, ils ont permis la perte de certains avions et navires pour induire l'ennemi en erreur sur leurs véritables intentions stratégiques. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                           "options": [
+                               "Sacrifier des actifs moins précieux pour protéger des actifs plus critiques",
+                               "Attaquer directement les forces principales de l'ennemi",
+                               "Former des alliances militaires",
+                               "Mettre en œuvre des sanctions économiques"
+                           ],
+                           "correctAnswerIndex": 0
+                       }
+                   ]
+               },
+        {
+                   "strategyId": "11",
+                   "questions": [
+                       {
+                           "id": "1",
+                           "text": "En 1941, le Japon a lancé l'attaque sur Pearl Harbor, causant de graves dommages à la base navale américaine. Avant cela, les États-Unis maintenaient une politique de neutralité, ne participant pas directement à la Seconde Guerre mondiale. Cependant, l'incident de Pearl Harbor a contraint les États-Unis à abandonner leur neutralité et à décider de s'engager pleinement dans la guerre. La principale raison de cette décision stratégique était de maintenir la stabilité mondiale et de se protéger de l'agression des puissances de l'Axe. Les États-Unis ont compris qu'en participant activement à la guerre, ils pouvaient arrêter l'expansion des puissances de l'Axe et garantir la sécurité mondiale. Quelle stratégie est-ce ?",
+                           "options": [
+                               "Faire semblant d'attaquer dans une direction",
+                               "Attirer avec une brique pour obtenir du jade",
+                               "Transformer l'adversité en avantage",
+                               "Attendre au repos pendant que l'ennemi travaille"
+                           ],
+                           "correctAnswerIndex": 1
+                       }
+            ]
+         },
+        {
+                   "strategyId": "12",
+                   "questions": [
+                       {
+                           "id": "1",
+                           "text": "En 1953, l'opération Ajax était une opération secrète orchestrée conjointement par la CIA et les agences de renseignement britanniques visant à renverser le Premier ministre iranien Mohammad Mossadegh. La politique de Mossadegh de nationalisation de l'industrie pétrolière avait tendu les relations avec les pays occidentaux. Pour atteindre cet objectif, les agents ont utilisé des stratégies secrètes pour inciter au mécontentement public et au chaos. Ils ont répandu des rumeurs, orchestré des émeutes à petite échelle et attisé l'opposition contre Mossadegh, conduisant finalement à la chute de son gouvernement et à la réalisation de leur objectif. Quelle stratégie les agents ont-ils utilisée pour atteindre leur objectif ?",
+                           "options": [
+                               "Attirer avec une brique pour obtenir du jade - Utiliser de petits événements et rumeurs",
+                               "Faire semblant d'attaquer dans une direction - Confrontation militaire directe",
+                               "Allié lointain, attaque proche - Sanctions économiques",
+                               "Stratégie de fort vide - Négociations diplomatiques"
+                           ],
+                           "correctAnswerIndex": 0
+                       },
+                       {
+                           "id": "12",
+                           "text": "Pendant les suites de la crise financière de 2008, certaines sociétés d'investissement ont tiré parti de l'instabilité du marché pour acquérir des actifs et des entreprises sous-évalués à bas prix. Cette approche opportuniste leur a permis d'élargir leurs avoirs pendant que d'autres étaient concentrés sur la gestion des crises financières immédiates. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                           "options": [
+                               "Exploiter une crise pour acquérir des actifs précieux",
+                               "Engager une compétition directe sur le marché",
+                               "Former des partenariats stratégiques",
+                               "Mettre en œuvre des réformes réglementaires"
+                           ],
+                           "correctAnswerIndex": 0
+                       }
+                   ]
+               },
+        {
+                  "strategyId": "13",
+                  "questions": [
+                      {
+                          "id": "1",
+                          "text": "Pendant la crise des missiles de Cuba, le président américain John F. Kennedy a mis en place un blocus naval pour tester la réponse de l'adversaire. Quel était l'objectif de cette stratégie ?",
+                          "options": [
+                              "Confrontation directe avec les forces soviétiques",
+                              "Provoquer une réaction et révéler les intentions soviétiques",
+                              "Négocier un traité de paix",
+                              "Obtenir un avantage militaire dans la région"
+                          ],
+                          "correctAnswerIndex": 1
+                      },
+                      {
+                          "id": "13",
+                          "text": "Au début de la Seconde Guerre mondiale, les Alliés ont mené une série d'opérations et de feintes trompeuses pour tester la réponse des forces de l'Axe et détecter d'éventuelles stratégies défensives. Ces actions visaient à provoquer une réaction de l'ennemi et à révéler ses plans. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                          "options": [
+                              "Provoquer une réaction pour recueillir des renseignements",
+                              "Engager directement des combats",
+                              "Établir des positions défensives",
+                              "Négocier un cessez-le-feu"
+                          ],
+                          "correctAnswerIndex": 0
+                      }
+                  ]
+              },
+        {
+                  "strategyId": "14",
+                  "questions": [
+                      {
+                          "id": "1",
+                          "text": "Dans la Chine ancienne, la stratégie du fort vide du général Zhao Zilong était d'ouvrir largement les portes de la ville, d'instruire ses soldats à balayer les rues, et de permettre à un vieil homme et un jeune enfant de jouer paisiblement. Pourquoi le général Zhao Zilong a-t-il adopté une telle stratégie ?",
+                          "options": [
+                              "Créer l'impression d'un piège",
+                              "Inviter l'ennemi pour une confrontation directe",
+                              "Faire reculer l'ennemi par suspicion",
+                              "Signaler à l'ennemi que la ville n'a pas de défense"
+                          ],
+                          "correctAnswerIndex": 2
+                      }
+                  ]
+              },
+        {"strategyId": "15",
+               "questions": [
+                   {
+                       "id": "1",
+                       "text": "Dans les années 2000, Tesla Motors était un petit fabricant de véhicules électriques. Le fondateur de Tesla, Elon Musk, a réalisé qu'une proposition de vente unique (USP) était nécessaire pour distinguer Tesla des fabricants d'automobiles traditionnels. En mettant l'accent sur des voitures de sport haute performance et des systèmes de propulsion électrique, Tesla a réussi à attirer un public cible recherchant des véhicules haute performance, à haute efficacité et zéro émission. Quelle stratégie Tesla a-t-il employée ?",
+                       "options": [
+                           "Différenciation par la performance",
+                           "Stratégie de niche de marché",
+                           "Leadership en coûts",
+                           "Collaboration avec des fabricants de voitures établis"
+                       ],
+                       "correctAnswerIndex": 0
+                   },
+                   {
+                       "id": "15",
+                       "text": "Pendant la Bataille de Normandie pendant la Seconde Guerre mondiale, les Alliés ont utilisé des tactiques de tromperie élaborées pour détourner les forces allemandes des véritables sites de débarquement. En créant de fausses opérations et des plans de débarquement fictifs, ils ont réussi à détourner l'attention et les ressources allemandes, permettant à l'invasion réelle de se dérouler avec moins de résistance. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                       "options": [
+                           "Détourner l'adversaire de l'objectif principal",
+                           "Engager directement l'ennemi sur son bastion",
+                           "Négocier une trêve pour éviter le conflit",
+                           "Utiliser des sanctions économiques pour affaiblir l'ennemi"
+                       ],
+                       "correctAnswerIndex": 0
+                   }
+               ]
+           },
+         {
+               "strategyId": "16",
+               "questions": [
+                   {
+                       "id": "1",
+                       "text": "En 1997, Amazon a acquis IMDb (Internet Movie Database), ce qui a aidé à établir le leadership d'Amazon dans les données cinématographiques en ligne. Quelle stratégie a été utilisée en acquérant un site web avec une forte réputation et une base d'utilisateurs établie ?",
+                       "options": [
+                           "Entrée directe sur le marché",
+                           "Exploitation de marques existantes",
+                           "Développement interne",
+                           "Réduction des coûts"
+                       ],
+                       "correctAnswerIndex": 1
+                   },
+                   {
+                       "id": "16",
+                       "text": "Pendant la Guerre d'indépendance américaine, le général George Washington a pris la décision stratégique de se retirer de New York en 1776, malgré sa capacité à maintenir la ville. Ce retrait visait à préserver son armée et à attirer les forces britanniques dans une campagne prolongée, conduisant finalement à des victoires clés plus tard dans la guerre. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                       "options": [
+                           "Feindre la faiblesse pour attirer l'ennemi dans un piège",
+                           "Confronter directement l'ennemi avec toute la force",
+                           "Construire des alliances avec des parties neutres",
+                           "Se concentrer sur la guerre économique pour affaiblir l'adversaire"
+                       ],
+                       "correctAnswerIndex": 0
+                   }
+               ]
+           },
+         {
+               "strategyId": "17",
+               "questions": [
+                   {
+                       "id": "1",
+                       "text": "Pendant le siège de Constantinople, l'Empire ottoman a utilisé des canons géants pour percer les murs de la ville, affaiblissant efficacement les défenses de la ville. Cette stratégie s'est concentrée sur l'attaque des lignes de défense clés de l'ennemi, forçant l'ennemi dans une position de menace sévère, ouvrant la voie à l'assaut final. Quelle stratégie des 'Trente-Six Stratagèmes' cela correspond-il ?",
+                       "options": [
+                           "Conserver sa force pendant que l'ennemi se fatigue",
+                           "Attaquer les positions non préparées",
+                           "Feindre une attaque dans une direction tout en attaquant en réalité une autre",
+                           "Assiéger Wei pour sauver Zhao"
+                       ],
+                       "correctAnswerIndex": 0
+                   },
+                   {
+                       "id": "17",
+                       "text": "Au début du 20e siècle, les États-Unis ont utilisé le concept de programmes du 'New Deal' comme mesure préliminaire pour stimuler la reprise économique pendant la Grande Dépression. L'administration a ensuite encouragé les secteurs public et privé à proposer des idées et des solutions supplémentaires, tirant parti des efforts initiaux pour attirer des propositions et des investissements plus significatifs. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                       "options": [
+                           "Utiliser une action initiale pour attirer des contributions plus précieuses",
+                           "Investir directement dans des projets à grande échelle",
+                           "Se concentrer sur la diplomatie internationale pour sécuriser les ressources",
+                           "Mettre en œuvre des contrôles réglementaires stricts pour gérer l'économie"
+                       ],
+                       "correctAnswerIndex": 0
+                   }
+               ]
+           },
+        {
+               "strategyId": "18",
+               "questions": [
+                   {
+                       "id": "1",
+                       "text": "Apple a maintenu une certaine cohérence de l'expérience utilisateur entre iOS et Mac OS, même si iOS était spécifiquement conçu pour les appareils mobiles. Quelle stratégie est-ce ?",
+                       "options": [
+                           "Avancer par le retrait - se préparer à une offensive plus grande en semblant se retirer.",
+                           "Traverser la mer sans que le ciel ne le sache - agir secrètement tout en créant une fausse impression.",
+                           "Observer à distance - maintenir une distance relative, observer les actions de l'ennemi et exploiter ses erreurs.",
+                           "Conserver sa force pendant que l'ennemi se fatigue - attendre que l'ennemi se fatigue avant d'agir pour obtenir un avantage."
+                       ],
+                       "correctAnswerIndex": 1
+                   },
+                   {
+                       "id": "18",
+                       "text": "Pendant la chasse aux criminels de guerre nazis après la Seconde Guerre mondiale, les forces alliées se sont concentrées sur la capture de hauts dirigeants nazis, tels qu'Adolf Eichmann et Heinrich Himmler. En ciblant ces figures clés, les Alliés visaient à démanteler le réseau nazi et à obtenir des renseignements précieux sur les agents restants. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                       "options": [
+                           "Cibler les dirigeants clés pour démanteler l'ensemble du réseau",
+                           "Se concentrer sur les agents de bas niveau pour recueillir des renseignements",
+                           "Négocier avec les factions ennemies pour parvenir à la paix",
+                           "Mettre en œuvre des sanctions économiques pour affaiblir l'ennemi"
+                       ],
+                       "correctAnswerIndex": 0
+                   }
+               ]
+           },
+        {
+               "strategyId": "19",
+               "questions": [
+                   {
+                       "id": "1",
+                       "text": "Microsoft a assuré une transition réussie de Windows 3.1 à Windows 95 en introduisant un système d'exploitation complètement nouveau tout en conservant des éléments d'interface utilisateur familiers. Quelle stratégie est-ce ?",
+                       "options": [
+                           "Avancer par le retrait - se préparer à une offensive plus grande en semblant se retirer.",
+                           "Pêcher dans des eaux troublées - trouver des opportunités dans le chaos, profiter de la confusion de l'adversaire.",
+                           "Feindre une attaque dans une direction tout en attaquant en réalité une autre - créer de faux signaux d'action pour cacher la véritable intention.",
+                           "Conserver sa force pendant que l'ennemi se fatigue - agir lorsque l'ennemi est épuisé pour obtenir un avantage."
+                       ],
+                       "correctAnswerIndex": 2
+                   },
+                   {
+                       "id": "19",
+                       "text": "Pendant la Guerre de Sécession américaine, l'Union a mis en œuvre une stratégie de ciblage des lignes d'approvisionnement et des infrastructures confédérées, telles que les chemins de fer et les usines. En coupant ces ressources critiques, l'Union visait à affaiblir les forces confédérées et à diminuer leur capacité à soutenir l'effort de guerre. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                       "options": [
+                           "Cibler et perturber les ressources essentielles pour affaiblir l'ennemi",
+                           "Engager des combats majeurs pour obtenir la victoire",
+                           "Former des alliances pour renforcer la position militaire",
+                           "Négocier avec les dirigeants ennemis pour un cessez-le-feu"
+                       ],
+                       "correctAnswerIndex": 0
+                   }
+               ]
+           },
+        {
+             "strategyId": "20",
+             "questions": [
+                 {
+                     "id": "0",
+                     "text": "Dans le monde des affaires, après l'exposition de la fraude comptable d'Enron, les ressources financières et le soutien de l'entreprise ont été coupés. Avec le scandale devenant public, Enron a immédiatement perdu la confiance des investisseurs, les lignes de crédit ont été coupées, et le prix de l'action a chuté. La perte soudaine de soutien financier et de ressources a conduit à la faillite d'Enron, impactant significativement ses employés, investisseurs et le marché en général. Comment l'exposition de la fraude comptable d'Enron a-t-elle affecté l'entreprise ?",
+                     "options": [
+                         "Elle a conduit à une perte immédiate de confiance des investisseurs et de soutien financier",
+                         "Elle a conduit à une augmentation de la confiance des investisseurs et de la valeur du marché",
+                         "Elle a conduit à l'expansion de l'entreprise à l'international",
+                         "Elle a conduit à une augmentation des lignes de crédit et du soutien financier"
+                     ],
+                     "correctAnswerIndex": 0
+                 },
+                 {
+                     "id": "2",
+                     "text": "Pendant le scandale du Watergate au début des années 1970, divers acteurs politiques ont profité de la confusion et du tumulte pour avancer leurs propres agendas et sécuriser des positions stratégiques. Certains individus ont utilisé le chaos du scandale pour faire passer des changements législatifs et des objectifs personnels pendant que l'attention publique était ailleurs. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                     "options": [
+                         "Exploiter une situation chaotique pour atteindre des objectifs personnels",
+                         "S'attaquer directement à la question principale par des réformes",
+                         "Construire des alliances solides pour contrer la crise",
+                         "Se concentrer sur des négociations diplomatiques pour résoudre le conflit"
+                     ],
+                     "correctAnswerIndex": 0
+                 }
+             ]
+         },
+         {
+             "strategyId": "21",
+             "questions": [
+                 {
+                     "id": "1",
+                     "text": "À la fin des années 1990, Apple a lancé la campagne publicitaire 'Think Different' pour remodeler son image de marque. Bien qu'Apple était encore en difficulté financière à l'époque, la campagne a mis en avant une image d'innovation et de créativité, se distinguant de ses concurrents. Cette apparence puissante et tournée vers l'avenir a aidé Apple à se rebrander et à poser les bases de son renouveau sur le marché technologique. Quelle campagne publicitaire a aidé à remodeler l'image de marque d'Apple et a mis en avant l'innovation et la créativité ?",
+                     "options": [
+                         "Think Different",
+                         "Get a Mac",
+                         "Mac vs. PC",
+                         "The Power of Mac"
+                     ],
+                     "correctAnswerIndex": 0
+                 },
+                 {
+                     "id": "2",
+                     "text": "Pendant la guerre du Vietnam, le Viet Cong employait souvent des tactiques pour induire en erreur les forces américaines en mettant en place des leurres et de fausses pistes, leur permettant de se retirer ou de se repositionner pendant que l'ennemi était trompé. Cette stratégie les aidait à éviter une confrontation directe et à maintenir leurs capacités opérationnelles. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                     "options": [
+                         "Utiliser la tromperie pour induire l'ennemi en erreur tout en s'échappant ou en se repositionnant",
+                         "Engager un combat direct pour vaincre l'ennemi",
+                         "Former des alliances pour renforcer la position militaire",
+                         "Mettre en œuvre des stratégies économiques pour affaiblir l'adversaire"
+                     ],
+                     "correctAnswerIndex": 0
+                 }
+             ]
+         },
+         {
+             "strategyId": "22",
+             "questions": [
+                 {
+                     "id": "1",
+                     "text": "Pendant la Seconde Guerre mondiale, l'Opération Uranus de l'Union Soviétique a réussi à encercler la 6e armée allemande, menant à une victoire décisive lors de la bataille de Stalingrad. Cette stratégie, grâce à des arrangements tactiques précis et des actions coordonnées, a complètement changé le cours de la guerre. Quelle stratégie des 'Trente-Six Stratagèmes' cela correspond-il ?",
+                     "options": [
+                         "Feignir une attaque dans une direction tout en attaquant réellement dans une autre - créer de faux signaux d'action pour cacher la véritable intention.",
+                         "Appâter le tigre hors de la montagne - inciter l'ennemi à s'éloigner d'une position favorable pour une action ultérieure.",
+                         "Assiéger Wei pour sauver Zhao - attaquer un autre lieu de force pour forcer l'ennemi à retirer ses forces principales.",
+                         "Traverser la mer sans que le ciel le sache - accomplir secrètement des actions pendant que l'ennemi juge mal l'action principale."
+                     ],
+                     "correctAnswerIndex": 2
+                 },
+                 {
+                     "id": "2",
+                     "text": "Pendant la bataille de Stalingrad lors de la Seconde Guerre mondiale, l'Union Soviétique a encerclé et piégé la 6e armée allemande dans la ville. En coupant leurs lignes d'approvisionnement et de renforts, les Soviétiques ont cherché à forcer les Allemands dans une position où ils pouvaient être défaits. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                     "options": [
+                         "Encercler et piéger l'ennemi pour forcer sa reddition",
+                         "Confronter directement l'ennemi dans une bataille ouverte",
+                         "Former des positions défensives pour résister aux attaques",
+                         "Négocier la paix pour mettre fin au conflit"
+                     ],
+                     "correctAnswerIndex": 0
+                 }
+             ]
+         },
+         {
+             "strategyId": "23",
+             "questions": [
+                 {
+                     "id": "1",
+                     "text": "Pendant la guerre de Troie, les Grecs, incapables de franchir les murs de Troie après un siège prolongé, ont conçu un plan impliquant un cheval en bois géant. Comment les Grecs ont-ils utilisé cette stratégie pour atteindre leur objectif de conquérir Troie ?",
+                     "options": [
+                         "En attaquant directement les murs",
+                         "En trompant les Troyens pour qu'ils amènent le cheval en bois à l'intérieur de la ville, puis en attaquant de l'intérieur",
+                         "En négociant un accord de paix avec les Troyens",
+                         "En utilisant un blocus naval pour couper les approvisionnements de la ville"
+                     ],
+                     "correctAnswerIndex": 1
+                 },
+                 {
+                     "id": "2",
+                     "text": "Pendant les premières années de la Seconde Guerre mondiale, les États-Unis ont formé des alliances avec des pays éloignés comme le Royaume-Uni et l'Union Soviétique tout en concentrant leurs efforts militaires immédiats sur la défaite des puissances de l'Axe dans des régions plus proches, comme le théâtre pacifique. Ce faisant, les États-Unis visaient à sécuriser leurs intérêts stratégiques en priorisant les conflits plus proches tout en gérant les alliances lointaines. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                     "options": [
+                         "Former des alliances avec des nations éloignées tout en abordant les menaces immédiates",
+                         "Se concentrer exclusivement sur les conflits proches sans alliances externes",
+                         "Construire une coalition mondiale pour affronter un ennemi commun",
+                         "Négocier des cessez-le-feu avec toutes les parties impliquées"
+                     ],
+                     "correctAnswerIndex": 0
+                 }
+             ]
+         },
+         {
+                 "strategyId": "24",
+                 "questions": [
+                     {
+                         "id": "1",
+                         "text": "Pendant la Seconde Guerre mondiale, pour envahir la France occupée par les nazis, les Alliés devaient tromper les Allemands sur le site principal de l'invasion. Quelle stratégie les Alliés ont-ils utilisée pour cacher leurs véritables intentions et réussir l'invasion ?",
+                         "options": [
+                             "Stratégie de la ville vide - en abandonnant une position clé pour tromper l'ennemi et le faire sentir en sécurité.",
+                             "Feignir une attaque dans une direction tout en attaquant réellement dans une autre - créer de faux signaux d'action pour cacher le véritable site d'invasion.",
+                             "Stratégie en chaîne - utiliser une série de stratégies interconnectées pour atteindre l'objectif final.",
+                             "L'hôte devient l'invité - inverser les attentes de l'ennemi, se rendant proactif."
+                         ],
+                         "correctAnswerIndex": 1
+                     },
+                     {
+                         "id": "2",
+                         "text": "Pendant la Guerre froide, l'Union Soviétique soutenait des mouvements communistes dans divers pays sous le prétexte de diffuser une idéologie révolutionnaire. Cependant, ces actions étaient souvent un couvert pour étendre l'influence et le contrôle soviétiques dans ces régions. En utilisant le prétexte de soutien idéologique, l'URSS visait à atteindre ses objectifs stratégiques. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                         "options": [
+                             "Utiliser un prétexte pour atteindre des objectifs stratégiques cachés",
+                             "Confronter directement l'adversaire principal",
+                             "Former des alliances pour contrer une menace commune",
+                             "Engager des sanctions économiques pour affaiblir l'adversaire"
+                         ],
+                         "correctAnswerIndex": 0
+                     }
+                 ]
+             },
+         {
+                 "strategyId": "25",
+                 "questions": [
+                     {
+                         "id": "1",
+                         "text": "Pendant la Seconde Guerre mondiale, les Alliés ont planifié l'invasion de la France occupée par les nazis. Pour tromper les Allemands sur le site principal de l'invasion, ils ont utilisé des tactiques astucieuses pour dissimuler leurs véritables intentions. Quelle stratégie les Alliés ont-ils utilisée pour mettre en œuvre ce plan ?",
+                         "options": [
+                             "Stratégie de la ville vide - tromper l'ennemi en abandonnant une position importante pour qu'il baisse sa garde.",
+                             "Feignir une attaque dans une direction tout en attaquant réellement dans une autre - créer de faux signaux d'action pour cacher le véritable site d'invasion.",
+                             "Appâter le tigre hors de la montagne - inciter l'ennemi à s'éloigner de ses lignes de défense pour créer une opportunité pour une attaque réelle.",
+                             "Emprunter un chemin pour attaquer Guo - dissimuler le véritable itinéraire d'attaque avec un faux plan d'action."
+                         ],
+                         "correctAnswerIndex": 1
+                     },
+                     {
+                         "id": "2",
+                         "text": "Pendant la Seconde Guerre mondiale, les Alliés ont employé des opérations de tromperie, telles que l'Opération Fortitude, pour tromper l'armée allemande sur le lieu de l'invasion du Jour J. En créant de fausses armées et de faux renseignements, les Alliés ont pu détourner les forces allemandes du véritable site d'invasion, assurant ainsi le succès de leur opération. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                         "options": [
+                             "Utiliser la tromperie pour induire l'ennemi en erreur et atteindre des objectifs stratégiques",
+                             "Confronter directement l'ennemi avec toute sa force",
+                             "Construire des positions défensives solides pour sécuriser une zone",
+                             "Former des alliances pour renforcer la puissance militaire"
+                         ],
+                         "correctAnswerIndex": 0
+                     }
+                 ]
+             },
+         {
+                 "strategyId": "26",
+                 "questions": [
+                     {
+                         "id": "1",
+                         "text": "Pendant le scandale du Watergate, le président Richard Nixon et son administration ont été confrontés à un examen minutieux et à des allégations d'activités illégales. Pour répondre à cette situation, l'administration Nixon a fréquemment utilisé des méthodes indirectes pour discréditer ou détourner l'attention des véritables problèmes. Par exemple, ils ont utilisé des stratégies pour déplacer l'attention publique loin du cambriolage illégal au siège du Comité national démocratique vers d'autres questions non liées. Quelle stratégie l'administration Nixon a-t-elle utilisée pour faire face à l'examen auquel elle était confrontée ?",
+                         "options": [
+                             "Ils ont directement abordé les allégations et admis leurs erreurs.",
+                             "Ils ont utilisé des méthodes indirectes pour détourner l'attention des véritables problèmes.",
+                             "Ils ont ignoré les allégations et ont continué avec leurs politiques originales.",
+                             "Ils ont établi un comité pour enquêter publiquement et répondre aux allégations."
+                         ],
+                         "correctAnswerIndex": 1
+                     },
+                     {
+                         "id": "2",
+                         "text": "Pendant la crise des missiles de Cuba, le président John F. Kennedy et son administration ont fait des déclarations publiques et des mouvements diplomatiques qui critiquaient subtilement l'Union Soviétique tout en s'adressant à un public plus large. Ces actions étaient destinées à appliquer une pression et envoyer des messages à la direction soviétique sans confrontation directe. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                         "options": [
+                             "Aborder indirectement un objectif spécifique tout en maintenant un front plus large",
+                             "Confronter directement l'adversaire par des déclarations publiques",
+                             "Former des accords diplomatiques formels pour résoudre le conflit",
+                             "Construire une coalition pour renforcer la puissance militaire et politique"
+                         ],
+                         "correctAnswerIndex": 0
+                     }
+
+      ]
+  },
+         {
+             "strategyId": "27",
+               "questions": [
+                 {
+                        "id": "1",
+                        "text": "Au début du 20e siècle, Clever Hans, un cheval appartenant à Wilhelm von Osten, était censé avoir la capacité de résoudre des problèmes arithmétiques. Cependant, des enquêtes ultérieures ont révélé que Hans répondait en réalité aux indices involontaires de son maître. Le phénomène entier était un malentendu. Quel stratagème des 'Trente-Six Stratagèmes' cela correspond-il ?",
+                        "options": [
+                          "Créer quelque chose à partir de rien - créer une illusion ou une réalité non fondée pour tromper l'ennemi.",
+                          "Pointer vers le murier et maudire l'arbre à sauterelle - un avertissement ou une critique indirecte visant un autre.",
+                          "Assiéger Wei pour sauver Zhao - attaquer un autre objectif pour détourner l'attention.",
+                          "Appâter le tigre hors de la montagne - inciter l'ennemi à s'éloigner d'une position favorable pour attaquer."
+                        ],
+                        "correctAnswerIndex": 0
+                      },
+                      {
+                        "id": "2",
+                        "text": "Pendant les premières étapes de la Seconde Guerre mondiale, le gouvernement britannique a utilisé des tactiques de tromperie pour faire croire aux forces allemandes que leur point d'invasion principal serait Calais, plutôt que le véritable site de débarquement de Normandie. En prétendant être moins capable et plus désorganisé, ils ont efficacement trompé les Allemands et ont sécurisé un avantage stratégique. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                        "options": [
+                          "Feignir l'incompétence ou la faiblesse pour tromper l'ennemi",
+                          "Confronter directement l'ennemi avec toute la force militaire",
+                          "Construire des alliances pour renforcer les positions défensives",
+                          "Promouvoir publiquement la paix et la neutralité tout en se préparant à la guerre"
+                        ],
+                        "correctAnswerIndex": 0
+                      }
+                    ]
+                  },
+                  {
+                    "strategyId": "28",
+                    "questions": [
+                      {
+                        "id": "0",
+                        "text": "Pendant la crise financière de 2008, la Réserve fédérale a mis en œuvre une série de politiques monétaires non conventionnelles pour stabiliser le marché financier. L'une des stratégies notables était le 'relèvement quantitatif', où la banque centrale achetait une grande quantité d'actifs financiers pour injecter de la liquidité sur le marché, visant à stimuler la reprise économique. Quelle stratégie des 'Trente-Six Stratagèmes' cela est-il comparable ?",
+                        "options": [
+                          "Pêcher dans des eaux troublées - trouver des opportunités dans le chaos, tirer parti de la confusion de l'adversaire.",
+                          "Appâter le tigre hors de la montagne - inciter l'ennemi à s'éloigner d'une position favorable pour une action ultérieure.",
+                          "Assiéger Wei pour sauver Zhao - attaquer un autre lieu de force pour forcer l'ennemi à retirer ses forces principales.",
+                          "Brûler le pont après avoir traversé - couper son retrait après avoir terminé une mission."
+                        ],
+                        "correctAnswerIndex": 0
+                      },
+                      {
+                        "id": "2",
+                        "text": "Pendant la Révolution française, une fois que le gouvernement révolutionnaire avait sécurisé le pouvoir et que la monarchie était abolie, les nouveaux dirigeants ont promulgué des lois et des mesures qui empêchaient toute force contre-révolutionnaire de reprendre le pouvoir. En consolidant leur contrôle et en éliminant les voies de retour pour l'ancien régime, ils ont effectivement 'retiré l'échelle' après avoir atteint leurs objectifs. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                        "options": [
+                          "Consolider le pouvoir et éliminer les opportunités pour l'opposition de revenir",
+                          "Négocier directement avec les anciens dirigeants pour les intégrer au nouveau gouvernement",
+                          "Former des alliances avec d'autres groupes révolutionnaires pour renforcer leur position",
+                          "Se concentrer sur des réformes économiques pour stabiliser le nouveau régime"
+                        ],
+                        "correctAnswerIndex": 0
+                      }
+                    ]
+                  },
+                  {
+                    "strategyId": "29",
+                    "questions": [
+                      {
+                        "id": "1",
+                        "text": "Dans le monde corporatif moderne, lorsqu'une entreprise souhaite acquérir un concurrent mais fait face à une résistance du conseil d'administration de l'entreprise cible, elle peut adopter une stratégie d'acquisition progressive d'une majorité d'actions de l'entreprise cible. Cette approche consiste à acquérir de petites quantités d'actions au fil du temps, permettant à l'entreprise acquéreuse de prendre le contrôle sans lancer une prise de contrôle hostile à grande échelle. Quelle stratégie est-ce ?",
+                        "options": [
+                          "Avancer par retrait - faire semblant de se retirer pour une offensive plus grande.",
+                          "Traverser la mer sans que le ciel le sache - agir secrètement tout en créant une fausse impression.",
+                          "Assiéger Wei pour sauver Zhao - attaquer un autre objectif pour détourner l'attention.",
+                          "Pêcher dans des eaux troublées - tirer parti de la confusion et du chaos."
+                        ],
+                        "correctAnswerIndex": 1
+                      },
+                      {
+                        "id": "2",
+                        "text": "Pendant les années 1960, les États-Unis ont investi massivement dans l'exploration spatiale et la technologie avec le programme Apollo, qui a abouti au premier atterrissage sur la lune en 1969. Cet exploit très médiatisé a été utilisé pour mettre en valeur le savoir-faire technologique et le leadership américain sur la scène mondiale, renforçant ainsi la prestique du pays. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                        "options": [
+                          "Utiliser des réalisations de haut niveau pour renforcer le prestige national",
+                          "Engager directement des confrontations militaires pour démontrer la force",
+                          "Former des alliances stratégiques pour renforcer l'influence internationale",
+                          "Mettre en œuvre des politiques domestiques pour améliorer la stabilité économique"
+                        ],
+                        "correctAnswerIndex": 0
+                      }
+                    ]
+                  },
+                  {
+                    "strategyId": "30",
+                    "questions": [
+                      {
+                        "id": "0",
+                        "text": "En 2001, dans l'affaire Enron célèbre, lorsque la fraude comptable de l'entreprise a été révélée, un groupe de cadres clés a rapidement fui, évitant ainsi la responsabilité légale et financière qui en a découlé. Quel stratagème des 'Trente-Six Stratagèmes' cela correspond-il ?",
+                        "options": [
+                          "Appâter le tigre hors de la montagne - inciter l'ennemi à s'éloigner d'une position favorable pour attaquer.",
+                          "Brûler le pont après avoir traversé - couper son retrait après avoir accompli une mission.",
+                          "Pointer vers le murier et maudire l'arbre à sauterelle - avertir ou critiquer indirectement un autre.",
+                          "Assiéger Wei pour sauver Zhao - attaquer un autre lieu de force pour forcer l'ennemi à retirer ses forces principales."
+                        ],
+                        "correctAnswerIndex": 1
+                      },
+                      {
+                        "id": "1",
+                        "text": "Pendant la crise des missiles de Cuba, l'Union Soviétique est initialement apparue comme l'invitée dans les négociations internationales, avec les États-Unis étant l'hôte de la crise. Cependant, par des négociations stratégiques et le placement de missiles soviétiques à Cuba, l'Union Soviétique a réussi à inverser l'équilibre des pouvoirs et influencer les termes de la résolution, contrôlant ainsi le résultat. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                        "options": [
+                          "Tourner la situation à son avantage en déplaçant les rôles et l'influence",
+                          "Maintenir une posture défensive tout en négociant",
+                          "Former des alliances pour renforcer la position",
+                          "Confronter directement l'adversaire pour atteindre ses objectifs"
+                        ],
+                        "correctAnswerIndex": 0
+                      }
+                    ]
+                  },
+                    {
+                      "strategyId": "31",
+                      "questions": [
+                        {
+                          "id": "1",
+                          "text": "Lors des guerres d'Alexandre le Grand, Alexandre affronta l'Empire perse, dirigé par Darius III. Dans un mouvement stratégique clé, Alexandre vainquit Darius III lors de la bataille d'Issos, puis à la bataille de Gaugamèles. Quel impact la capture et la défaite de Darius III ont-elles eu sur l'Empire perse ?",
+                          "options": [
+                            "Lancer une brique pour attirer le jade - Obtenir plus d'avantages en attirant l'adversaire à révéler ses faiblesses.",
+                            "Stratagème en chaîne - Affaiblir progressivement l'adversaire à travers une série d'actions interconnectées.",
+                            "Observer le feu de l'autre côté de la rivière - Créer des conflits parmi les adversaires pour exploiter leurs problèmes internes.",
+                            "Profiter d'un point faible - Agir rapidement pour obtenir un avantage lorsque l'adversaire est fatigué ou mal préparé."
+                          ],
+                          "correctAnswerIndex": 1
+                        },
+                        {
+                          "id": "31",
+                          "text": "Pendant la Seconde Guerre mondiale, les Alliés ont utilisé diverses formes d'espionnage et de tromperie pour influencer les dirigeants ennemis. Un exemple notable est l'utilisation d'agents féminins, comme l'agente britannique Virginia Hall, qui a utilisé son charme et son esprit pour recueillir des renseignements critiques et influencer les opérations ennemies. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                          "options": [
+                            "Utiliser le charme et la tromperie pour obtenir des avantages stratégiques",
+                            "Engager directement des confrontations militaires pour atteindre les objectifs",
+                            "Former des alliances stratégiques pour contrer l'ennemi",
+                            "Mettre en œuvre des mesures économiques pour affaiblir l'adversaire"
+                          ],
+                          "correctAnswerIndex": 0
+                        }
+                      ]
+                    },
+                    {
+                      "strategyId": "32",
+                      "questions": [
+                        {
+                          "id": "0",
+                          "text": "Pendant les guerres napoléoniennes, Napoléon Bonaparte ajustait souvent sa stratégie en étudiant les tactiques de l'ennemi et en les utilisant contre lui. Par exemple, lors de la bataille d'Austerlitz, Napoléon a anticipé et exploité les tactiques des Russes et des Autrichiens à son avantage. Comment la stratégie de Napoléon consistant à utiliser les tactiques de l'ennemi a-t-elle impacté son succès militaire ?",
+                          "options": [
+                            "Attendre tranquillement pendant que l'ennemi s'épuise - Obtenir un avantage en préparant soigneusement et en attendant que l'ennemi fasse des erreurs ou se fatigue.",
+                            "Combattre le feu par le feu - Utiliser les propres tactiques de l'adversaire contre lui.",
+                            "Créer une diversion à l'est et frapper à l'ouest - Distracter l'ennemi en créant des illusions ou des feintes.",
+                            "Observer le feu de l'autre côté de la rivière - Exploiter les opportunités en observant les conflits ou les problèmes parmi les ennemis."
+                          ],
+                          "correctAnswerIndex": 1
+                        },
+                        {
+                          "id": "2",
+                          "text": "Pendant la Seconde Guerre mondiale, les Alliés ont utilisé diverses formes d'espionnage et de tromperie pour influencer les dirigeants ennemis. Un exemple notable est l'utilisation d'agents féminins, comme l'agente britannique Virginia Hall, qui a utilisé son charme et son esprit pour recueillir des renseignements critiques et influencer les opérations ennemies. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                          "options": [
+                            "Utiliser le charme et la tromperie pour obtenir des avantages stratégiques",
+                            "Engager directement des confrontations militaires pour atteindre les objectifs",
+                            "Former des alliances stratégiques pour contrer l'ennemi",
+                            "Mettre en œuvre des mesures économiques pour affaiblir l'adversaire"
+                          ],
+                          "correctAnswerIndex": 0
+                        }
+                      ]
+                    },
+                    {
+                      "strategyId": "33",
+                      "questions": [
+                        {
+                          "id": "1",
+                          "text": "Pendant la Première Guerre mondiale, les Alliés ont adopté une stratégie d'ouverture de plusieurs fronts à travers l'Europe pour affaiblir les Puissances centrales. En créant plusieurs fronts, les Alliés ont forcé les Puissances centrales à disperser leurs ressources et leur attention. Quel impact la stratégie de création de plusieurs fronts a-t-elle eu sur l'issue de la guerre ?",
+                          "options": [
+                            "Assiéger Wei pour sauver Zhao - Forcer l'ennemi à disperser ses ressources en ouvrant des fronts dans différentes zones, réduisant ainsi sa force globale.",
+                            "Attirer le tigre hors de la montagne - Créer des illusions ou ouvrir de nouveaux fronts pour inciter l'ennemi à détourner des ressources du front principal.",
+                            "Créer une diversion à l'est et frapper à l'ouest - Distracter l'ennemi en provoquant le chaos et des feintes à plusieurs endroits.",
+                            "Traverser la mer sans que l'empereur le sache - Détourner secrètement l'attention de l'ennemi pour atteindre des objectifs stratégiques."
+                          ],
+                          "correctAnswerIndex": 0
+                        },
+                        {
+                          "id": "2",
+                          "text": "Pendant la Seconde Guerre mondiale, les Alliés ont mené l'opération Double Cross, qui consistait à transformer des espions allemands capturés en agents doubles travaillant pour les Alliés. En utilisant ces agents doubles pour fournir de fausses informations aux Allemands, les Alliés ont pu manipuler les stratégies et les opérations ennemies. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                          "options": [
+                            "Transformer des espions ennemis en atouts pour manipuler leurs stratégies",
+                            "Confronter directement l'ennemi par des engagements militaires",
+                            "Former des alliances pour renforcer la puissance militaire",
+                            "Mettre en œuvre des sanctions économiques pour affaiblir l'ennemi"
+                          ],
+                          "correctAnswerIndex": 0
+                        }
+                      ]
+                    },
+                    {
+                      "strategyId": "34",
+                      "questions": [
+                        {
+                          "id": "1",
+                          "text": "Lors de la bataille d'Hastings en 1066, Guillaume le Conquérant utilisa une tactique astucieuse pour vaincre l'armée saxonne. Il ordonna à ses troupes de feindre la retraite, ce qui poussa les soldats saxons à abandonner leurs positions défensives et à les poursuivre. Lorsque les Saxons quittèrent leur formation défensive, l'armée de Guillaume se retourna et lança une contre-attaque puissante, assurant ainsi la victoire. Comment la stratégie de feindre la retraite et de contre-attaquer de Guillaume le Conquérant l'a-t-elle aidé à gagner la bataille ?",
+                          "options": [
+                            "Traverser la mer sans que l'empereur le sache - Cacher les véritables intentions en feignant la retraite, ce qui pousse l'ennemi à mal juger la situation.",
+                            "L'invité devient l'hôte - Briser la défense de l'ennemi en prenant l'initiative d'attaquer, renversant ainsi la situation.",
+                            "Tuer avec un couteau emprunté - Exploiter les erreurs stratégiques de l'ennemi pour l'attaquer.",
+                            "Créer une diversion à l'est et frapper à l'ouest - Tromper l'ennemi avec des feintes, ce qui le pousse à détourner son attention."
+                          ],
+                          "correctAnswerIndex": 0
+                        },
+                        {
+                          "id": "3",
+                          "text": "Pendant la guerre de Sécession, le général de l'Union Ulysses S. Grant a mené une série de campagnes coûteuses et éprouvantes, comme la campagne Overland, qui impliquait des pertes importantes et des batailles difficiles. En faisant preuve de résilience et de volonté d'endurer des difficultés, Grant visait à épuiser et user les forces confédérées, obtenant un avantage psychologique malgré le coût apparent. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                          "options": [
+                            "Endurer des pertes importantes pour obtenir des avantages stratégiques à long terme",
+                            "Négocier directement avec l'ennemi pour atteindre la paix",
+                            "Se concentrer sur des tactiques défensives pour protéger des positions clés",
+                            "Former des alliances pour renforcer les capacités militaires"
+                          ],
+                          "correctAnswerIndex": 0
+                        }
+                      ]
+                    },
+                    {
+                      "strategyId": "35",
+                      "questions": [
+                        {
+                          "id": "1",
+                          "text": "Pendant la Seconde Guerre mondiale, l'opération Overlord (D-Day) des Alliés était une action stratégique critique. Le 6 juin 1944, les Alliés ont débarqué en Normandie, en France, dans une invasion massive pour libérer la France occupée par les nazis. Pour déguiser le véritable site de débarquement, les Alliés ont mis en œuvre un plan astucieux - ils ont créé plusieurs faux sites de débarquement à travers de faux renseignements et des unités factices, incitant les forces allemandes à concentrer leurs troupes et leurs ressources ailleurs. Le véritable site de débarquement était en Normandie, et les forces allemandes n'ont pas pu mobiliser rapidement leurs forces de défense. Comment la stratégie des Alliés d'utiliser la tromperie a-t-elle influencé l'issue du D-Day ?",
+                          "options": [
+                            "Créer une diversion à l'est et frapper à l'ouest - Tromper l'ennemi avec des feintes, ce qui le pousse à détourner son attention.",
+                            "Attirer le tigre hors de la montagne - Inciter l'ennemi à quitter sa position défensive pour lancer une attaque.",
+                            "Stratagème de la ville vide - Bluff en créant une illusion de ville non défendue pour dissuader l'ennemi d'attaquer.",
+                            "Combiner le vrai avec le faux - Utiliser une combinaison de stratégies réelles et fausses pour obtenir des effets inattendus."
+                          ],
+                          "correctAnswerIndex": 0
+                        },
+                        {
+                          "id": "3",
+                          "text": "À la fin du XVIIIe siècle, pendant la Révolution américaine, le général George Washington et son équipe ont utilisé une série de manœuvres militaires coordonnées et de tactiques trompeuses pour contourner et surprendre les forces britanniques. Un exemple notable est l'exécution réussie du siège de Yorktown, qui a impliqué une combinaison de stratégies terrestres et navales pour piéger l'armée britannique, conduisant à leur reddition finale. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                          "options": [
+                            "Employer une série de manœuvres interconnectées pour atteindre un objectif stratégique",
+                            "Confronter directement l'ennemi avec une force écrasante",
+                            "Former des alliances diplomatiques pour obtenir du soutien",
+                            "Se concentrer sur des mesures économiques pour affaiblir l'ennemi"
+                          ],
+                          "correctAnswerIndex": 0
+                        }
+                      ]
+                    },
+                    {
+                      "strategyId": "36",
+                      "questions": [
+                        {
+                          "id": "1",
+                          "text": "Dans la guerre ancienne chinoise, une tactique courante était de détruire un pont après que l'ennemi l'ait traversé. Cette stratégie, connue sous le nom de 'couper le pont pour bloquer la retraite de l'ennemi', était utilisée pour isoler l'ennemi et l'empêcher de fuir ou de se regrouper. En détruisant la retraite de l'ennemi, la force attaquante pouvait lancer une attaque décisive sans risque que l'ennemi s'échappe. Comment la tactique de détruire des ponts a-t-elle contribué aux opérations militaires réussies ?",
+                          "options": [
+                            "Briser les chaudrons et couler les bateaux - Assurer que l'ennemi ne puisse pas échapper en détruisant leur chemin de retraite.",
+                            "Créer une diversion à l'est et frapper à l'ouest - Tromper l'ennemi avec des feintes, ce qui le pousse à détourner son attention.",
+                            "Attirer le tigre hors de la montagne - Inciter l'ennemi à quitter sa position défensive pour lancer une attaque.",
+                            "Assiéger Wei pour sauver Zhao - Mettre la pression sur l'ennemi pour le forcer à disperser ses ressources, réduisant ainsi la pression sur le champ de bataille principal."
+                          ],
+                          "correctAnswerIndex": 0
+                        },
+                        {
+                          "id": "2",
+                          "text": "Pendant la Seconde Guerre mondiale, l'opération Overlord, l'invasion alliée de Normandie, a été précédée par une série d'opérations trompeuses collectivement connues sous le nom d'opération Fortitude. Ces opérations comprenaient des stratégies liées, telles que des armées factices, de la désinformation et de faux renseignements, pour induire les Allemands en erreur sur le véritable site d'invasion. En utilisant une série coordonnée de tromperies, les Alliés ont réussi à détourner les défenses allemandes de Normandie. Quelle approche stratégique cette tactique représente-t-elle le mieux ?",
+                          "options": [
+                            "Utiliser une série de schémas interconnectés pour atteindre un objectif stratégique",
+                            "Confronter directement l'ennemi avec une seule opération décisive",
+                            "Construire des alliances pour renforcer la puissance militaire",
+                            "Se concentrer sur des stratégies économiques pour affaiblir l'adversaire"
+                          ],
+                          "correctAnswerIndex": 0
+                        }
+                      ]}
+                    ]}
+

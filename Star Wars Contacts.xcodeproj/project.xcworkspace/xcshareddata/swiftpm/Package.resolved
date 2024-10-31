@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "11928850d7273a8cd41bb766f2fc93b4d724b79b",
+        "version" : "5.0.4"
+      }
+    },
+    {
+      "identity" : "swinject",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Swinject/Swinject.git",
+      "state" : {
+        "revision" : "8a76d2c74bafbb455763487cc6a08e91bad1f78b",
+        "version" : "2.7.1"
+      }
+    }
+  ],
+  "version" : 2
+}

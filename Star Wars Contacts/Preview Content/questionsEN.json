@@ -1,0 +1,944 @@
+{
+  "strategies": [
+    {
+      "strategyId": "1",
+      "questions": [
+        {
+          "id": "0",
+          "text": "Google is known for its 'moonshot' projects, such as self-driving cars, renewable energy initiatives, and internet balloons. These projects attract wide public and media attention. At the same time, Google continues to enhance its core advertising business, which is its main source of revenue. By promoting these eye-catching projects, Google diverts attention from its core business strategy. What strategic method does Google's action most embody?",
+          "options": [
+            "Diversified stakeholder engagement",
+            "Deception strategy to distract competitors",
+            "Portfolio management and risk diversification",
+            "Hiding under the surface"
+          ],
+          "correctAnswerIndex": 3
+        },
+        {
+          "id": "1",
+          "text": "During World War II, the Allies used a strategic deception operation called 'Operation Fortitude' to mislead the Germans about the location of the Normandy invasion. By creating a fictitious army group and using false information, the Allies successfully diverted German troops away from the actual landing site. What strategic method does this operation most embody?",
+          "options": [
+            "Creating a false front",
+            "Deception strategy to distract competitors",
+            "Diversified stakeholder engagement",
+            "Portfolio management and risk diversification"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "strategyId": "2",
+      "questions": [
+        {
+          "id": "1",
+          "text": "In the 1990s, under the leadership of Steve Jobs, Apple implemented a strategy focused on niche markets and new products (like the iPod), rather than directly competing with Microsoft's dominance in the personal computer market. What strategic method does this project management strategy most represent?",
+          "options": [
+            "Market penetration strategy",
+            "Product differentiation strategy",
+            "Niche market strategy",
+            "Cost leadership strategy"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "id": "2",
+          "text": "During World War II, the Allies carried out a deception operation called 'Operation Bodyguard' to mislead the Germans about the time and place of the Normandy invasion. By creating a fake army group and diverting German attention to other fronts, the Allies successfully facilitated the actual Normandy landings. What strategic method does this operation most embody?",
+          "options": [
+            "Direct confrontation strategy",
+            "Deception strategy to distract the enemy",
+            "Cost leadership strategy",
+            "Market penetration strategy"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "strategyId": "3",
+      "questions": [
+        {
+          "id": "1",
+          "text": "Which strategy involves using the strength or resources of others to achieve one's own goals?",
+          "options": [
+            "Encirclement strategy",
+            "Using someone else's power (Borrowing a knife to kill)",
+            "Direct attack",
+            "Defensive mechanism"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "id": "2",
+          "text": "During the Cold War, the U.S. and its allies supported anti-Soviet organizations in various regions to indirectly weaken Soviet influence without direct confrontation. By providing resources and support to these organizations, the U.S. was able to indirectly weaken the Soviet Union. What strategic method does this action most represent?",
+          "options": [
+            "Direct military intervention",
+            "Supporting agents to achieve goals",
+            "Economic sanction strategy",
+            "Diplomatic negotiation"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "strategyId": "4",
+      "questions": [
+        {
+          "id": "0",
+          "text": "In 2005, Google acquired Android Inc. and leveraged Android's technology and expertise to enter and eventually dominate the mobile operating system market, rather than developing a mobile OS from scratch. What strategy did Google use?",
+          "options": [
+            "Using someone else's power (Borrowing a knife to kill)",
+            "Watching and waiting",
+            "Divide and conquer",
+            "Pretend to attack from one direction"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "id": "5",
+          "text": "During the American Civil War, Union forces took advantage of the Southern army's focus on defending their territory by entering less-defended areas. This tactic allowed Union forces to capture valuable resources and territories while the Southern army was focused on their immediate crisis. What strategic method does this tactic most embody?",
+          "options": [
+            "Taking advantage of the opponent's distraction",
+            "Establishing mutually beneficial alliances",
+            "Negotiating peace agreements",
+            "Conducting economic warfare"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "strategyId": "5",
+      "questions": [
+        {
+          "id": "1",
+          "text": "In the early 2000s, Netflix adopted a strategy of waiting and observing as Blockbuster struggled with its traditional brick-and-mortar business model. As Blockbuster faced high costs and declining revenue, Netflix seized the market shift towards digital streaming and DVD mail services, eventually dominating the market. What strategy did Netflix use?",
+          "options": [
+            "Pretend to attack from one direction",
+            "Distant friendship and close attack",
+            "Using trusted people without arousing suspicion",
+            "Hiding under the surface"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "id": "6",
+          "text": "During World War II, the Allies conducted a series of deception operations, including misleading German troops about the location of the Normandy invasion. By creating false radio transmissions and fake military actions in one area, they successfully launched the real invasion in Normandy, catching the Germans off guard. What strategic method does this operation most embody?",
+          "options": [
+            "Pretending to be active in one area to attack in another",
+            "Direct frontal assault",
+            "Establishing blockades",
+            "Negotiating a ceasefire"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "strategyId": "6",
+      "questions": [
+        {
+          "id": "1",
+          "text": "During the 2008 financial crisis, many traditional brick-and-mortar retailers struggled with declining sales and financial instability. Amazon, with its strong e-commerce platform and logistics network, took advantage of competitors' weaknesses during this period. What strategy did Amazon use to increase its market share?",
+          "options": [
+            "Direct price competition",
+            "Cost leadership",
+            "Diversification",
+            "Taking advantage of others' misfortunes (Picking chestnuts from the fire)"
+          ],
+          "correctAnswerIndex": 3
+        }
+      ]
+    },
+    {
+      "strategyId": "7",
+      "questions": [
+        {
+          "id": "1",
+          "text": "During the Second Punic War, Carthaginian general Hannibal used a tactic at the Battle of Cannae where he feigned retreat to lure the Romans into a vulnerable position, then launched a counterattack from the flanks and rear. What strategy did Hannibal use?",
+          "options": [
+            "Pretend to attack from one direction",
+            "Lure the enemy deeper",
+            "Distant friendship and close attack",
+            "Using someone else's power (Borrowing a knife to kill)"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "id": "7",
+          "text": "On the eve of the Spanish-American War, the U.S. government exaggerated the sinking of the USS Maine in Havana Harbor, despite little concrete evidence of Spanish involvement. This dramatic depiction influenced public opinion and led to a declaration of war. What strategy does this most embody?",
+          "options": [
+            "Creating false narratives to incite action",
+            "Direct military intervention",
+            "Diplomatic negotiation",
+            "Economic pressure"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "strategyId": "8",
+      "questions": [
+        {
+          "id": "1",
+          "text": "During the 2012 launch of the Tesla Model S, Tesla conducted a high-profile marketing campaign that highlighted the car's advanced features. Tesla also secretly advanced strategic initiatives to develop a supercharging network and infrastructure to ensure the car's post-launch success. What strategy is this?",
+          "options": [
+            "Hiding under the surface",
+            "Pretend to attack from one direction",
+            "Using someone else's power (Borrowing a knife to kill)",
+            "Besiege Wei to rescue Zhao"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+          "id": "8",
+          "text": "During the American Revolutionary War, General George Washington executed a surprise attack by secretly crossing the Delaware River at night on December 25, 1776. This unexpected move allowed the Continental Army to successfully strike Hessian forces stationed in Trenton. What strategy does this most embody?",
+          "options": [
+            "Carrying out a surprise raid by hiding the route",
+            "Forming a defensive alliance",
+            "Launching a direct attack on the enemy's main forces",
+            "Negotiating a truce"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "strategyId": "9",
+      "questions": [
+        {
+          "id": "1",
+          "text": "In the 2010s, Samsung and Apple noticed that Chinese smartphone companies, such as Huawei and Xiaomi, were gaining traction with mid-range phones. Rather than responding directly, Apple and Samsung launched more premium models and focused on expanding their brand image. What strategy is this?",
+          "options": [
+            "Pretend to attack from one direction",
+            "Hiding one's true intentions",
+            "Cost leadership strategy",
+            "Using someone else's power (Borrowing a knife to kill)"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "strategyId": "10",
+      "questions": [
+        {
+          "id": "1",
+          "text": "In the 2010s, Samsung and Apple noticed that Chinese smartphone companies, such as Huawei and Xiaomi, were gaining traction with mid-range phones. Rather than responding directly, Apple and Samsung launched more premium models and focused on expanding their brand image. What strategy is this?",
+          "options": [
+            "Pretend to attack from one direction",
+            "Hiding one's true intentions",
+            "Cost leadership strategy",
+            "Using someone else's power (Borrowing a knife to kill)"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    },
+    {
+      "strategyId": "11",
+      "questions": [
+        {
+          "id": "1",
+          "text": "In 1941, Japan launched the attack on Pearl Harbor, causing severe damage to the U.S. naval base. Prior to this, the U.S. maintained a neutral policy, not directly participating in World War II. However, the Pearl Harbor incident forced the U.S. to abandon its neutrality and decide to engage fully in the war. The primary reason for this strategic decision was to maintain global stability and protect itself from Axis aggression. The U.S. realized that only by actively participating in the war could it stop Axis expansion and ensure global security. What strategy is this?",
+          "options": [
+            "Feign an attack in one direction",
+            "Lure with a brick to obtain jade",
+            "Turn adversity into advantage",
+            "Wait at leisure while the enemy labors"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+            "id": "11",
+            "text": "During World War II, the Allies implemented a strategy to deceive the Axis powers by creating fake military targets and sacrificing less important assets. For instance, they allowed some aircraft and ships to be lost in order to mislead the enemy about their true strategic intentions. Which strategic approach does this tactic best represent?",
+            "options": [
+                "Sacrificing less valuable assets to protect more critical ones",
+                "Directly attacking the enemy's main forces",
+                "Forming military alliances",
+                "Implementing economic sanctions"
+            ],
+            "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "strategyId": "12",
+      "questions": [
+        {
+          "id": "1",
+          "text": "In 1953, Operation Ajax was a covert operation jointly orchestrated by the CIA and British intelligence agencies with the aim of overthrowing Iranian Prime Minister Mohammad Mosaddegh. Mosaddegh's policy of nationalizing the oil industry had strained relations with Western countries. To achieve this goal, the operatives used covert strategies to incite public discontent and chaos. They spread rumors, orchestrated small-scale riots, and stirred opposition against Mosaddegh, ultimately leading to the downfall of his government and achieving their objective. What strategy did the operatives use to achieve their goal?",
+          "options": [
+            "Lure with a brick to obtain jade - Using small events and rumors",
+            "Feign an attack in one direction - Direct military confrontation",
+            "Distant ally, close attack - Economic sanctions",
+            "Empty fort strategy - Diplomatic negotiations"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+            "id": "12",
+            "text": "During the aftermath of the financial crash of 2008, some investment firms took advantage of the market instability to acquire undervalued assets and companies at a bargain. This opportunistic approach allowed them to expand their holdings while others were focused on dealing with immediate financial crises. Which strategic approach does this tactic best represent?",
+            "options": [
+                "Exploiting a crisis to acquire valuable assets",
+                "Engaging in direct market competition",
+                "Forming strategic partnerships",
+                "Implementing regulatory reforms"
+            ],
+            "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "strategyId": "13",
+      "questions": [
+        {
+          "id": "1",
+          "text": "During the Cuban Missile Crisis, U.S. President John F. Kennedy implemented a naval blockade to test the opponent's response. What was the purpose of this strategy?",
+          "options": [
+            "Direct confrontation with Soviet forces",
+            "Provoking a response and revealing Soviet intentions",
+            "Negotiating a peace treaty",
+            "Gaining military advantage in the region"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+            "id": "13",
+            "text": "During the early stages of World War II, the Allies conducted a series of false operations and feints to test the response of Axis forces and to detect any potential defensive strategies. These actions were intended to provoke a reaction from the enemy and reveal their plans. Which strategic approach does this tactic best represent?",
+            "options": [
+                "Provoking a reaction to gather intelligence",
+                "Directly engaging in combat",
+                "Establishing defensive positions",
+                "Negotiating a ceasefire"
+            ],
+            "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "strategyId": "14",
+      "questions": [
+        {
+          "id": "1",
+          "text": "In ancient China, General Zhao Zilong's empty fort strategy was to open the city gates wide, instruct his soldiers to sweep the streets, and allow an old man and a young child to leisurely play. Why did General Zhao Zilong adopt such a strategy?",
+          "options": [
+            "Create an impression of a trap",
+            "Invite the enemy in for a direct confrontation",
+            "Make the enemy retreat due to suspicion",
+            "Signal to the enemy that the city has no defense"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+            "id": "14",
+            "text": "In the early 20th century, the United States revived old alliances and relationships from World War I to strengthen its position against emerging threats during World War II. By leveraging these established connections and agreements, the U.S. effectively rejuvenated its strategic influence without having to build new alliances from scratch. Which strategic approach does this tactic best represent?",
+            "options": [
+                "Reviving old relationships to bolster current strategy",
+                "Forming new alliances from scratch",
+                "Direct military confrontation",
+                "Economic and trade negotiations"
+            ],
+            "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "strategyId": "15",
+      "questions": [
+        {
+          "id": "1",
+          "text": "In the 2000s, Tesla Motors was a small electric vehicle manufacturer. Tesla's founder, Elon Musk, realized that a unique selling proposition (USP) was needed to distinguish Tesla from traditional automobile manufacturers. By emphasizing high-performance sports cars and electric drive systems, Tesla successfully attracted a target audience seeking high-performance, high-efficiency, and zero-emission vehicles. This strategic action involved seeking unique opportunities to establish market leadership. What strategy did Tesla employ?",
+          "options": [
+            "Differentiate through performance",
+            "Market niche strategy",
+            "Cost leadership",
+            "Collaborate with established car manufacturers"
+          ],
+          "correctAnswerIndex": 0
+        },
+        {
+            "id": "15",
+            "text": "During the Battle of Normandy in World War II, the Allies used elaborate deception tactics to draw German forces away from the actual landing sites. By creating false operations and fake invasion plans, they successfully diverted German attention and resources, allowing the real invasion to proceed with less resistance. Which strategic approach does this tactic best represent?",
+            "options": [
+                "Luring the opponent away from the main objective",
+                "Directly engaging the enemy at their stronghold",
+                "Negotiating a truce to avoid conflict",
+                "Utilizing economic sanctions to weaken the enemy"
+            ],
+            "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "strategyId": "16",
+      "questions": [
+        {
+          "id": "1",
+          "text": "In 1997, Amazon acquired IMDb (Internet Movie Database), which helped establish Amazon's leadership in online movie data. What strategy was used by acquiring a website with a strong reputation and established user base?",
+          "options": [
+            "Direct market entry",
+            "Leveraging existing brands",
+            "Internal development",
+            "Cost reduction"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+            "id": "16",
+            "text": "During the American Revolutionary War, General George Washington made a strategic decision to retreat from New York City in 1776, despite having the capability to hold the city. This retreat was intended to preserve his army and lure the British forces into a prolonged campaign, eventually leading to key victories later in the war. Which strategic approach does this tactic best represent?",
+            "options": [
+                "Feigning weakness to lure the enemy into a trap",
+                "Directly confronting the enemy with full force",
+                "Building alliances with neutral parties",
+                "Focusing on economic warfare to weaken the opponent"
+            ],
+            "correctAnswerIndex": 0
+        }
+      ]
+    },
+      {
+        "strategyId": "17",
+        "questions": [
+          {
+            "id": "1",
+            "text": "During the siege of Constantinople, the Ottoman Empire used giant cannons to breach the city's walls, effectively weakening the city's defenses. This strategy focused on attacking the enemy's key defense lines, forcing the enemy into a position of severe threat, paving the way for the final assault. What strategy from 'The Thirty-Six Stratagems' does this correspond to?",
+            "options": [
+              "Conserving strength while the enemy grows tired",
+              "Attacking the unprepared",
+              "Feigning an attack in one direction while actually attacking another",
+              "Besieging Wei to rescue Zhao"
+            ],
+            "correctAnswerIndex": 0
+          },
+          {
+          "id": "17",
+          "text": "In the early 20th century, the United States used the concept of 'New Deal' programs as a preliminary measure to stimulate economic recovery during the Great Depression. The administration then encouraged public and private sectors to contribute additional ideas and solutions, leveraging the initial efforts to attract more significant proposals and investments. Which strategic approach does this tactic best represent?",
+          "options": [
+              "Using an initial action to attract more valuable contributions",
+              "Directly investing in large-scale projects",
+              "Focusing on international diplomacy to secure resources",
+              "Implementing strict regulatory controls to manage the economy"
+          ],
+          "correctAnswerIndex": 0
+      }
+        ]
+      },
+      {
+        "strategyId": "18",
+        "questions": [
+          {
+            "id": "1",
+            "text": "Apple maintained some user experience consistency between iOS and Mac OS, even though iOS was specifically designed for mobile devices. What strategy is this?",
+            "options": [
+              "Advance through retreat - preparing for a bigger offensive by seeming to withdraw.",
+              "Crossing the sea without the sky knowing - taking action secretly while creating a false impression.",
+              "Watching from a distance - maintaining a relative distance, observing the enemy's actions, and exploiting their mistakes.",
+              "Conserving strength while the enemy grows tired - waiting for the enemy to grow tired before taking action to gain an advantage."
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+              "id": "18",
+              "text": "During the hunt for Nazi war criminals after World War II, Allied forces focused on capturing high-ranking Nazi leaders, such as Adolf Eichmann and Heinrich Himmler. By targeting these key figures, the Allies aimed to dismantle the Nazi network and gain valuable intelligence about remaining operatives. Which strategic approach does this tactic best represent?",
+              "options": [
+                  "Targeting key leaders to dismantle the entire network",
+                  "Focusing on low-level operatives to gather intelligence",
+                  "Negotiating with enemy factions to achieve peace",
+                  "Implementing economic sanctions to weaken the enemy"
+              ],
+              "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "strategyId": "19",
+        "questions": [
+          {
+            "id": "1",
+            "text": "Microsoft ensured a successful transition from Windows 3.1 to Windows 95 by introducing a completely new operating system while retaining familiar user interface elements. What strategy is this?",
+            "options": [
+              "Advance through retreat - preparing for a bigger offensive by seeming to withdraw.",
+              "Fishing in troubled waters - finding opportunities in chaos, taking advantage of the opponent's confusion.",
+              "Feigning an attack in one direction while actually attacking another - creating false signals of action to hide the true intention.",
+              "Conserving strength while the enemy grows tired - acting when the enemy is exhausted to gain an advantage."
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+              "id": "19",
+              "text": "During the U.S. Civil War, the Union implemented a strategy of targeting Confederate supply lines and infrastructure, such as railroads and factories. By cutting off these critical supplies, the Union aimed to weaken the Confederate forces and diminish their ability to sustain the war effort. Which strategic approach does this tactic best represent?",
+              "options": [
+                  "Targeting and disrupting essential resources to weaken the enemy",
+                  "Directly engaging in major battles to achieve victory",
+                  "Forming alliances to bolster military strength",
+                  "Negotiating with enemy leaders for a ceasefire"
+              ],
+              "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "strategyId": "20",
+        "questions": [
+          {
+            "id": "0",
+            "text": "In the corporate world, after the Enron accounting fraud was exposed, the company's financial resources and support were cut off. With the scandal coming to light, Enron immediately lost investor confidence, credit lines were cut off, and the stock price plummeted. The sudden loss of financial support and resources led to Enron's bankruptcy, significantly impacting its employees, investors, and the broader market. How did the exposure of Enron's accounting fraud affect the company?",
+            "options": [
+              "It led to an immediate loss of investor confidence and financial support",
+              "It led to an increase in investor confidence and market value",
+              "It led to the company expanding its global business",
+              "It led to increased credit lines and financial support"
+            ],
+            "correctAnswerIndex": 0
+          },
+          {
+              "id": "2",
+              "text": "During the Watergate scandal in the early 1970s, various political actors took advantage of the confusion and turmoil to advance their own agendas and secure strategic positions. Some individuals used the scandal's chaos to push through legislative changes and personal objectives while public attention was focused elsewhere. Which strategic approach does this tactic best represent?",
+              "options": [
+                  "Exploiting a chaotic situation to achieve personal goals",
+                  "Directly addressing the main issue through reforms",
+                  "Building strong alliances to counter the crisis",
+                  "Focusing on diplomatic negotiations to resolve the conflict"
+              ],
+              "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "strategyId": "21",
+        "questions": [
+          {
+            "id": "1",
+            "text": "In the late 1990s, Apple launched the Think Different advertising campaign to reshape its brand image. Although Apple was still in financial trouble at the time, the campaign showcased an image of innovation and creativity, distinguishing itself from its competitors. This seemingly powerful and forward-looking appearance helped Apple rebrand itself and lay the foundation for its resurgence in the technology market. Which advertising campaign helped reshape Apple's brand image and showcased innovation and creativity?",
+            "options": [
+              "Think Different",
+              "Get a Mac",
+              "Mac vs. PC",
+              "The Power of Mac"
+            ],
+            "correctAnswerIndex": 0
+          },
+          {
+              "id": "2",
+              "text": "During the Vietnam War, the Viet Cong often employed tactics to mislead U.S. forces by setting up decoys and false trails, allowing them to retreat or reposition while the enemy was misled. This strategy helped them avoid direct confrontation and maintain their operational capabilities. Which strategic approach does this tactic best represent?",
+              "options": [
+                  "Using deception to mislead the enemy while escaping or repositioning",
+                  "Engaging in direct combat to defeat the enemy",
+                  "Forming alliances to strengthen military position",
+                  "Implementing economic strategies to weaken the opponent"
+              ],
+              "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "strategyId": "22",
+        "questions": [
+          {
+            "id": "1",
+            "text": "During World War II, the Soviet 'Operation Uranus' successfully encircled the German 6th Army, leading to a decisive victory in the Battle of Stalingrad. This strategy, through precise tactical arrangements and coordinated actions, completely changed the course of the war. What strategy from 'The Thirty-Six Stratagems' does this correspond to?",
+            "options": [
+              "Feigning an attack in one direction while actually attacking another - creating false signals of action to hide the true intention.",
+              "Luring the tiger out of the mountain - enticing the enemy away from a favorable position for further action.",
+              "Besieging Wei to rescue Zhao - attacking another place of strength to force the enemy to withdraw its main forces.",
+              "Crossing the sea without the sky knowing - secretly completing actions while the enemy misjudges the main action."
+            ],
+            "correctAnswerIndex": 2
+          },
+          {
+              "id": "2",
+              "text": "During the Battle of Stalingrad in World War II, the Soviet Union encircled and trapped the German 6th Army within the city. By cutting off their supply lines and reinforcements, the Soviets aimed to force the Germans into a position where they could be defeated. Which strategic approach does this tactic best represent?",
+              "options": [
+                  "Encircling and trapping the enemy to force their surrender",
+                  "Directly confronting the enemy in open battle",
+                  "Forming defensive positions to withstand attacks",
+                  "Negotiating peace to end the conflict"
+              ],
+              "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "strategyId": "23",
+        "questions": [
+          {
+            "id": "1",
+            "text": "During the Trojan War, the Greeks, unable to breach the walls of Troy after a prolonged siege, devised a plan involving a giant wooden horse. How did the Greeks use this strategy to achieve their goal of conquering Troy?",
+            "options": [
+              "By directly attacking the walls",
+              "By deceiving the Trojans into bringing the wooden horse inside the city, then attacking from within",
+              "By negotiating a peace agreement with the Trojans",
+              "By using a naval blockade to cut off the city's supplies"
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+              "id": "23",
+              "text": "During the early years of World War II, the United States formed alliances with distant countries like the United Kingdom and the Soviet Union while focusing its immediate military efforts on defeating Axis powers in closer regions, such as the Pacific Theater. By doing so, the U.S. aimed to secure its strategic interests by prioritizing conflicts closer to home while managing distant alliances. Which strategic approach does this tactic best represent?",
+              "options": [
+                  "Forming alliances with distant nations while addressing immediate threats",
+                  "Focusing exclusively on nearby conflicts without external alliances",
+                  "Building a global coalition to confront a common enemy",
+                  "Negotiating ceasefires with all parties involved"
+              ],
+              "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "strategyId": "24",
+        "questions": [
+          {
+            "id": "1",
+            "text": "During World War II, in order to invade Nazi-occupied France, the Allies needed to cleverly mislead the Germans about the main invasion site. What strategy did the Allies use to hide their true intentions and successfully carry out the invasion?",
+            "options": [
+              "Empty city strategy - by abandoning a key position to deceive the enemy into a false sense of security.",
+              "Feigning an attack in one direction while actually attacking another - creating false signals of action to hide the true invasion site.",
+              "Chain strategy - using a series of interconnected strategies to achieve the final goal.",
+              "Host becomes the guest - reversing the enemy's expectations, making oneself the proactive party."
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+              "id": "2",
+              "text": "During the Cold War, the Soviet Union supported communist movements in various countries under the guise of spreading revolutionary ideology. However, these actions were often a cover for expanding Soviet influence and control in those regions. By using the pretext of ideological support, the USSR aimed to achieve its strategic objectives. Which strategic approach does this tactic best represent?",
+              "options": [
+                  "Using a pretext to achieve hidden strategic goals",
+                  "Directly confronting the primary adversary",
+                  "Forming alliances to counter a common threat",
+                  "Engaging in economic sanctions to weaken the opponent"
+              ],
+              "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "strategyId": "25",
+        "questions": [
+          {
+            "id": "1",
+            "text": "During World War II, the Allies planned to invade Nazi-occupied France. To mislead the Germans about the primary invasion site, they employed clever tactics to conceal their true intentions. What strategy did the Allies use to implement this plan?",
+            "options": [
+              "Empty city strategy - deceiving the enemy by abandoning an important position to make them lower their guard.",
+              "Feigning an attack in one direction while actually attacking another - creating false signals of action to hide the true invasion site.",
+              "Luring the tiger out of the mountain - enticing the enemy away from their defensive lines to create an opportunity for a real attack.",
+              "Borrowing a path to attack Guo - concealing the real attack route with a false action plan."
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+              "id": "2",
+              "text": "During World War II, the Allies employed deception operations, such as Operation Fortitude, to mislead the German military about the location of the D-Day invasion. By creating fake armies and false intelligence, the Allies were able to divert German forces away from the actual invasion site, thereby ensuring the success of their operation. Which strategic approach does this tactic best represent?",
+              "options": [
+                  "Using deception to mislead the enemy and achieve strategic goals",
+                  "Directly confronting the enemy with full force",
+                  "Building strong defensive positions to secure an area",
+                  "Forming alliances to enhance military strength"
+              ],
+              "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "strategyId": "26",
+        "questions": [
+          {
+            "id": "1",
+            "text": "During the Watergate scandal, President Richard Nixon and his administration faced intense scrutiny and allegations of illegal activities. To respond to this situation, the Nixon administration frequently used indirect methods to discredit or divert attention from the actual issues. For example, they employed strategies to shift public focus away from the illegal break-in at the Democratic National Committee headquarters to other unrelated matters. What strategy did the Nixon administration use to deal with the scrutiny they faced?",
+            "options": [
+              "They directly addressed the allegations and admitted their mistakes.",
+              "They used indirect methods to divert attention from the actual issues.",
+              "They ignored the allegations and continued with their original policies.",
+              "They established a committee to publicly investigate and respond to the allegations."
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+              "id": "2",
+              "text": "During the Cuban Missile Crisis, President John F. Kennedy and his administration made public statements and diplomatic moves that subtly criticized the Soviet Union while addressing a broader audience. These actions were intended to apply pressure and send messages to the Soviet leadership without direct confrontation. Which strategic approach does this tactic best represent?",
+              "options": [
+                  "Indirectly addressing a specific target while maintaining a broader front",
+                  "Directly confronting the adversary through public statements",
+                  "Forming formal diplomatic agreements to resolve the conflict",
+                  "Building a coalition to strengthen military and political leverage"
+              ],
+              "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "strategyId": "27",
+        "questions": [
+          {
+            "id": "1",
+            "text": "In the early 20th century, Clever Hans, a horse owned by Wilhelm von Osten, was believed to have the ability to solve arithmetic problems. However, subsequent investigations revealed that Hans was actually responding to the unintentional cues of his handler. The entire phenomenon was a misunderstanding. Which stratagem from the 'Thirty-Six Stratagems' corresponds to this?",
+            "options": [
+              "Create something out of nothing - creating an illusion or an unfounded reality to deceive the enemy.",
+              "Pointing at the mulberry and cursing the locust tree - an indirect warning or criticism aimed at another.",
+              "Besieging Wei to rescue Zhao - attacking another target to divert attention.",
+              "Luring the tiger out of the mountain - enticing the enemy out of a favorable position to attack."
+            ],
+            "correctAnswerIndex": 0
+          },
+          {
+              "id": "2",
+              "text": "During the early stages of World War II, the British government used deceptive tactics to make the German forces believe that their main invasion point would be Calais, rather than the actual landing site of Normandy. By pretending to be less capable and more disorganized, they effectively misled the Germans and secured a strategic advantage. Which strategic approach does this tactic best represent?",
+              "options": [
+                  "Feigning incompetence or weakness to mislead the enemy",
+                  "Directly confronting the enemy with full military force",
+                  "Building alliances to strengthen defensive positions",
+                  "Publicly promoting peace and neutrality while preparing for war"
+              ],
+              "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "strategyId": "28",
+        "questions": [
+          {
+            "id": "0",
+            "text": "During the financial crisis of 2008, the Federal Reserve implemented a series of unconventional monetary policies to stabilize the financial market. One of the notable strategies was 'quantitative easing,' where the central bank purchased a large amount of financial assets to inject liquidity into the market, aiming to stimulate economic recovery. This strategy is akin to which stratagem from 'The Thirty-Six Stratagems'?",
+            "options": [
+              "Fishing in troubled waters - finding opportunities in chaos, taking advantage of the opponent's confusion.",
+              "Luring the tiger out of the mountain - enticing the enemy away from a favorable position for further action.",
+              "Besieging Wei to rescue Zhao - attacking another place of strength to force the enemy to withdraw its main forces.",
+              "Burning the bridge after crossing - cutting off one's retreat after completing a mission."
+            ],
+            "correctAnswerIndex": 0
+          },
+          {
+              "id": "2",
+              "text": "During the French Revolution, once the revolutionary government had secured power and the monarchy was abolished, the new leaders enacted laws and measures that prevented any counter-revolutionary forces from regaining power. By consolidating their control and eliminating pathways for the old regime to return, they effectively 'pulled up the ladder' after achieving their goals. Which strategic approach does this tactic best represent?",
+              "options": [
+                  "Consolidating power and eliminating opportunities for the opposition to return",
+                  "Directly negotiating with former leaders to integrate them into the new government",
+                  "Building alliances with other revolutionary groups to strengthen their position",
+                  "Focusing on economic reforms to stabilize the new regime"
+              ],
+              "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "strategyId": "29",
+        "questions": [
+          {
+            "id": "1",
+            "text": "In the modern corporate world, when a company wants to acquire a competitor but faces resistance from the target company's board of directors, it might adopt a strategy of gradually acquiring a majority stake in the target company. This approach involves acquiring small amounts of shares over time, allowing the acquiring company to gain control without launching a full-scale hostile takeover. What strategy is this?",
+            "options": [
+              "Advance through retreat - pretending to withdraw for a greater offensive.",
+              "Crossing the sea without the sky knowing - secretly taking action while creating a false impression.",
+              "Besieging Wei to rescue Zhao - attacking another target to divert attention.",
+              "Fishing in troubled waters - taking advantage of confusion and chaos."
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+              "id": "2",
+              "text": "During the 1960s, the United States invested heavily in space exploration and technology with the Apollo program, which culminated in the moon landing in 1969. This high-profile achievement was used to showcase American technological prowess and leadership on the global stage, enhancing the country's prestige. Which strategic approach does this tactic best represent?",
+              "options": [
+                  "Using high-profile achievements to enhance national prestige",
+                  "Directly engaging in military confrontations to demonstrate strength",
+                  "Forming strategic alliances to bolster international influence",
+                  "Implementing domestic policies to improve economic stability"
+              ],
+              "correctAnswerIndex": 0
+          }
+        ]
+      },
+      {
+        "strategyId": "30",
+        "questions": [
+          {
+            "id": "0",
+            "text": "In 2001, in the famous Enron case, when the company's accounting fraud was exposed, a group of key executives quickly fled, avoiding subsequent legal and financial responsibility. What stratagem from 'The Thirty-Six Stratagems' does this correspond to?",
+            "options": [
+              "Luring the tiger out of the mountain - enticing the enemy out of a favorable position to attack.",
+              "Burning the bridge after crossing - cutting off one's retreat after achieving a mission.",
+              "Pointing at the mulberry and cursing the locust tree - indirectly warning or criticizing another.",
+              "Besieging Wei to rescue Zhao - attacking another place of strength to force the enemy to withdraw its main forces."
+            ],
+            "correctAnswerIndex": 1
+          },
+          {
+              "id": "1",
+              "text": "During the Cuban Missile Crisis, the Soviet Union initially appeared to be the guest in the international negotiations, with the U.S. being the host of the crisis. However, through strategic negotiations and the placement of Soviet missiles in Cuba, the Soviet Union managed to shift the balance of power and influence the terms of the resolution, effectively turning the tables and controlling the outcome. Which strategic approach does this tactic best represent?",
+              "options": [
+                  "Turning the situation to one's advantage by shifting roles and influence",
+                  "Maintaining a defensive posture while negotiating",
+                  "Building alliances to strengthen position",
+                  "Directly confronting the adversary to achieve goals"
+              ],
+              "correctAnswerIndex": 0
+          }
+        ]
+      },
+        {
+          "strategyId": "31",
+          "questions": [
+            {
+              "id": "1",
+              "text": "During the wars of Alexander the Great, Alexander faced the Persian Empire, which was ruled by Darius III. In a key strategic move, Alexander defeated Darius III at the Battle of Issus and subsequently at the Battle of Gaugamela. What impact did capturing and defeating Darius III have on the Persian Empire?",
+              "options": [
+                "Cast a brick to attract jade - Gain more advantage by luring the opponent to reveal their flaws.",
+                "Chain stratagem - Gradually weaken the opponent through a series of interconnected actions.",
+                "Watch the fire from across the river - Create conflict among opponents to exploit their internal problems.",
+                "Take advantage of a weak spot - Act quickly to gain an advantage when the opponent is tired or unprepared."
+              ],
+              "correctAnswerIndex": 1
+            },
+            {
+                "id": "31",
+                "text": "During World War II, the Allies used various forms of espionage and deception to influence enemy leaders. One notable instance was the use of female spies and operatives, such as the British agent Virginia Hall, who used charm and wit to gather critical intelligence and influence enemy operations. Which strategic approach does this tactic best represent?",
+                "options": [
+                    "Using allure and deception to gain strategic advantages",
+                    "Directly engaging in military confrontations to achieve objectives",
+                    "Forming strategic alliances to counter the enemy",
+                    "Implementing economic measures to weaken the opponent"
+                ],
+                "correctAnswerIndex": 0
+            }
+          ]
+        },
+        {
+          "strategyId": "32",
+          "questions": [
+            {
+              "id": "0",
+              "text": "During the Napoleonic Wars, Napoleon Bonaparte often adjusted his strategy by studying the enemy's tactics and using them against the enemy. For example, at the Battle of Austerlitz, Napoleon anticipated and exploited the tactics of the Russians and Austrians to his advantage. How did Napoleon's strategy of using the enemy's tactics impact his military success?",
+              "options": [
+                "Wait at leisure while the enemy labors - Gain an advantage by carefully preparing and waiting for the enemy to make mistakes or become fatigued.",
+                "Fight fire with fire - Use the opponent's own tactics against them.",
+                "Create a diversion in the east and strike in the west - Distract the enemy by creating illusions or feints.",
+                "Watch the fire from across the river - Exploit opportunities by observing conflicts or issues among enemies."
+              ],
+              "correctAnswerIndex": 1
+            },
+            {
+                "id": "2",
+                "text": "During World War II, the Allies used various forms of espionage and deception to influence enemy leaders. One notable instance was the use of female spies and operatives, such as the British agent Virginia Hall, who used charm and wit to gather critical intelligence and influence enemy operations. Which strategic approach does this tactic best represent?",
+                "options": [
+                    "Using allure and deception to gain strategic advantages",
+                    "Directly engaging in military confrontations to achieve objectives",
+                    "Forming strategic alliances to counter the enemy",
+                    "Implementing economic measures to weaken the opponent"
+                ],
+                "correctAnswerIndex": 0
+            }
+          ]
+        },
+        {
+          "strategyId": "33",
+          "questions": [
+            {
+              "id": "1",
+              "text": "During World War I, the Allies adopted a strategy of opening multiple fronts across Europe to weaken the Central Powers. By creating multiple fronts, the Allies forced the Central Powers to spread their resources and attention. How did the strategy of creating multiple fronts impact the outcome of the war?",
+              "options": [
+                "Besiege Wei to rescue Zhao - Force the enemy to spread their resources by opening fronts in different areas, thus weakening their overall strength.",
+                "Lure the tiger out of the mountain - Create illusions or open new fronts to entice the enemy to divert resources from the main front.",
+                "Create a diversion in the east and strike in the west - Distract the enemy by causing chaos and feints in multiple places.",
+                "Cross the sea without the emperor's knowledge - Secretly divert the enemy's attention to achieve strategic objectives."
+              ],
+              "correctAnswerIndex": 0
+            },
+            {
+                "id": "2",
+                "text": "During World War II, the Allies conducted Operation Double Cross, which involved turning captured German spies into double agents working for the Allies. By using these double agents to feed misleading information back to the Germans, the Allies were able to manipulate enemy strategies and operations. Which strategic approach does this tactic best represent?",
+                "options": [
+                    "Turning enemy spies into assets to manipulate their strategies",
+                    "Directly confronting the enemy through military engagement",
+                    "Forming alliances to enhance military strength",
+                    "Implementing economic sanctions to weaken the enemy"
+                ],
+                "correctAnswerIndex": 0
+            }
+          ]
+        },
+        {
+          "strategyId": "34",
+          "questions": [
+            {
+              "id": "1",
+              "text": "During the Battle of Hastings in 1066, William the Conqueror used a clever tactic to defeat the Saxon army. He ordered his troops to feign retreat, causing the Saxon soldiers to abandon their defensive positions and pursue them. When the Saxons left their defensive formation, William's army turned around and launched a powerful counterattack, securing victory. How did William the Conqueror's strategy of feigning retreat and then counterattacking help him win the battle?",
+              "options": [
+                "Cross the sea without the emperor's knowledge - Conceal true intentions by pretending to retreat, causing the enemy to misjudge the situation.",
+                "Guest becomes the host - Break the enemy's defense by taking the initiative to attack, reversing the situation.",
+                "Kill with a borrowed knife - Exploit the enemy's strategic mistakes to attack them.",
+                "Create a diversion in the east and strike in the west - Mislead the enemy with feints, causing them to divert attention."
+              ],
+              "correctAnswerIndex": 0
+            },
+            {
+                "id": "3",
+                "text": "During the American Civil War, Union General Ulysses S. Grant conducted a series of costly and grueling campaigns, such as the Overland Campaign, which involved significant casualties and hard-fought battles. By demonstrating resilience and willingness to endure hardship, Grant aimed to outlast and wear down the Confederate forces, gaining a psychological advantage despite the apparent high cost. Which strategic approach does this tactic best represent?",
+                "options": [
+                    "Enduring significant losses to gain long-term strategic advantages",
+                    "Directly negotiating with the enemy to achieve peace",
+                    "Focusing on defensive tactics to protect key positions",
+                    "Forming alliances to strengthen military capabilities"
+                ],
+                "correctAnswerIndex": 0
+            }
+          ]
+        },
+        {
+          "strategyId": "35",
+          "questions": [
+            {
+              "id": "1",
+              "text": "During World War II, the Allied 'Operation Overlord' (D-Day) was a critical strategic action. On June 6, 1944, the Allies landed in Normandy, France, in a massive invasion to liberate Nazi-occupied France. To disguise the real landing site, the Allies implemented a clever plan—they created several fake landing sites through false intelligence and dummy units, prompting the German forces to concentrate their troops and resources elsewhere. The real landing site was in Normandy, and the German forces were unable to quickly mobilize their defensive forces. How did the Allies' strategy of using deception influence the outcome of D-Day?",
+              "options": [
+                "Create a diversion in the east and strike in the west - Mislead the enemy with feints, causing them to divert attention.",
+                "Lure the tiger out of the mountain - Entice the enemy to leave their defensive position to launch an attack.",
+                "Empty city stratagem - Bluff by creating an illusion of an undefended city to deter the enemy from attacking.",
+                "Combine the real with the fake - Use a combination of real and fake strategies to achieve unexpected effects."
+              ],
+              "correctAnswerIndex": 0
+            },
+            {
+                "id": "3",
+                "text": "In the late 18th century, during the American Revolution, General George Washington and his team used a series of coordinated military maneuvers and deceptive tactics to outflank and surprise the British forces. One notable example is the successful execution of the Siege of Yorktown, which involved a combination of land and naval strategies to trap the British army, leading to their eventual surrender. Which strategic approach does this tactic best represent?",
+                "options": [
+                    "Employing a series of interconnected maneuvers to achieve a strategic objective",
+                    "Directly confronting the enemy with overwhelming force",
+                    "Forming diplomatic alliances to secure support",
+                    "Focusing on economic measures to weaken the enemy"
+                ],
+                "correctAnswerIndex": 0
+            }
+          ]
+        },
+        {
+          "strategyId": "36",
+          "questions": [
+            {
+              "id": "1",
+              "text": "In ancient Chinese warfare, a common tactic was to destroy a bridge after the enemy had crossed it. This strategy, known as 'cutting off the bridge to block the enemy's retreat,' was used to isolate the enemy and prevent them from fleeing or regrouping. By cutting off the enemy's retreat, the attacking force could launch a decisive attack without the risk of the enemy escaping. How did the tactic of destroying bridges contribute to successful military operations?",
+              "options": [
+                "Break the cauldrons and sink the boats - Ensure the enemy cannot escape by destroying their path of retreat.",
+                "Create a diversion in the east and strike in the west - Mislead the enemy with feints, causing them to divert attention.",
+                "Lure the tiger out of the mountain - Entice the enemy to leave their defensive position to launch an attack.",
+                "Besiege Wei to rescue Zhao - Apply pressure on the enemy to force them to disperse resources, reducing pressure on the main battlefield."
+              ],
+              "correctAnswerIndex": 0
+            },
+            {
+                "id": "2",
+                "text": "During World War II, Operation Overlord, the Allied invasion of Normandy, was preceded by a series of deceptive operations collectively known as Operation Fortitude. These operations involved multiple linked strategies, such as fake armies, misinformation, and false intelligence, to mislead the Germans about the actual invasion site. By using a coordinated series of deceptions, the Allies successfully diverted German defenses away from Normandy. Which strategic approach does this tactic best represent?",
+                "options": [
+                    "Using a series of interconnected schemes to achieve a strategic goal",
+                    "Directly confronting the enemy with a single decisive operation",
+                    "Building alliances to strengthen military strength",
+                    "Focusing on economic strategies to weaken the opponent"
+                ],
+                "correctAnswerIndex": 0
+            }
+          ]
+        }
+      ]}
+
+
